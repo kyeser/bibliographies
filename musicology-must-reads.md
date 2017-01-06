@@ -19,6 +19,7 @@ A list of books and articles (mostly) in musicology that have radically changed 
 * Fink, Robert. 1999. “Going Flat: Post-Hierarchical Music Theory and the Musical Surface.” In [*Rethinking Music*](https://www.amazon.com/Rethinking-Music-Nick-Cook/dp/019879004X/), edited by Nicholas Cook and Mark Everist, 102–37. Oxford: Oxford University Press.
 * Goehr, Lydia. 2007. [*The Imaginary Museum of Musical Works: An Essay in the Philosophy of Music*](https://www.amazon.com/Imaginary-Museum-Musical-Works-Philosophy/dp/0195324781/). Rev. ed. New York: Oxford University Press. First published 1992.
 * Hosokawa, Shuhei. 1984. “[The Walkman Effect](http://www.jstor.org/stable/853362).” *Popular Music* 4:165–80.
+* Hutcheon, Linda, and Michael Hutcheon. 1996. [*Opera: Desire, Disease, Death*](https://www.amazon.com/Opera-Desire-Disease-Death-Contexts/dp/0803273185/). Lincoln: University of Nebraska Press.
 * Kerman, Joseph. 1980. “[How We Got into Analysis, and How to Get Out](http://www.jstor.org/stable/1343130).” *Critical Inquiry* 7 (2): 311–31.
 * ———. 1985. [*Contemplating Music*](https://www.amazon.com/Contemplating-Music-Challenges-Joseph-Kerman/dp/0674166787/). Cambridge, MA: Harvard University Press.
 * ———. 1988. [*Opera as Drama*](https://www.amazon.com/Opera-as-Drama-Fiftieth-Anniversary/dp/0520246926). New and rev. ed. Berkeley: University of California Press. 1st ed., New York: Alfred A. Knopf, 1956.
