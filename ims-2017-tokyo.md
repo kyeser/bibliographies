@@ -5,6 +5,7 @@
 * Dixon, Wheeler Winston. 1995. *It Looks at You: The Returned Gaze of Cinema*. Albany: State University of New York Press.
 * Donnelly, K. J., and Philip Hayward, eds. 2013. *Music in Science Fction Television: Tuned to the Future*. New York: Routledge.
 * Dubeck, Leroy W., Suzanne E. Moshier, and Judith E. Boss. 2004. *Fantastic Voyages: Learning Science Through Science Fiction Films*. 2nd ed. New York: Springer-Verlag.
+* Feldstein, Richard, Bruce Fink, and Maire Jaanus, eds. 1995. *Reading Seminar XI: Lacan’s Four Fundamental Concepts of Psychoanalysis; The Paris Seminars in English*. Albany: State University of New York Press.
 * Flinn, Caryl. 1992. *Strains of Utopia: Gender, Nostalgia, and Hollywood Film Music*. Princeton, NJ: Princeton University Press.
 * McGowan, Todd. 2003. “Looking for the Gaze: Lacanian Film Theory and Its Vicissitudes.” *Cinema Journal* 42 (3): 27–47.
 * ———. 2007. *The Real Gaze: Film Theory after Lacan*. Albany: State University of New York Press.
