@@ -1,4 +1,4 @@
-# References for a paper to be read at IMS 2017 Tokyo
+# References for a paper to be read at [IMS 2017 Tokyo](http://ims2017-tokyo.org)
 
 * Augé, Marc. 1995. *Non-Places: Introduction to an Anthropology of Supermodernity*. Translated by John Howe. London: Verso. Originally published as *Non-Lieux, Introduction à une anthropologie de la surmodernité* (Paris: Editions du Seuil, 1992).
 * Bartkowiak, Mathew J., ed. 2010. *Sounds of the Future: Essays on Music in Science Fiction Film*. Jefferson, NC: McFarland.
