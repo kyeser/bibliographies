@@ -1,6 +1,6 @@
 # Books & Articles in Musicology
 
-A list of books and articles (mostly) in musicology that have radically changed and shaped my musical thinking. Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicology.com).
+A list of books and articles in (mostly) musicology that have radically changed and shaped my musical thinking. Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicology.com).
 
 * Abbate, Carolyn. 1991. [*Unsung Voices: Opera and Musical Narrative in the Nineteenth Century*](https://www.amazon.com/Unsung-Voices-Carolyn-Abbate/dp/0691026084/). Princeton, NJ: Princeton University Press.
 * Attali, Jacques. (1977) 1985. [*Noise: The Political Economy*](https://www.amazon.com/Noise-Political-Economy-History-Literature/dp/0816612870/). Translated by Brian Massumi. Foreword by Fredric Jameson. Afterword by Susan McClary. Minneapolis: University of Minnesota Press. Originally published as *Bruits: essai sur l’économie politique de la musique* (Paris: Presses Universitaires de France).
