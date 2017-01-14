@@ -11,6 +11,7 @@ A list of books and articles in (mostly) musicology that have radically changed 
 * Berger, Karol. 2007. [*Bach’s Cycle, Mozart’s Arrow: An Essay on the Origins of Musical Modernity*](https://www.amazon.com/Bachs-Cycle-Mozarts-Arrow-Modernity/dp/0520257979/). Berkeley: University of California Press.
 * Bloom, Harold. 1997. [*The Anxiety of Influence: A Theory of Poetry*](https://www.amazon.com/Anxiety-Influence-Theory-Poetry/dp/0195112210/). 2nd ed. New York: Oxford University Press. 1st ed., 1973.
 * Born, Georgina, ed. 2013. [*Music, Sound and Space: Transformations of Public and Private Experience*](https://www.amazon.com/Music-Sound-Space-Transformations-Experience/dp/1107504120/). Cambridge: Cambridge University Press.
+* Bradley, A. C. 1904. [*Shakespearean Tragedy: Lectures on Hamlet, Othello, King Lear, Macbeth*](https://archive.org/details/cu31924013159920). London: Macmillan.
 * Butler, Judith. 1999. [*Gender Trouble: Feminism and the Subversion of Identity*](https://www.amazon.com/Gender-Trouble-Feminism-Subversion-Routledge/dp/0415389550/). 2nd ed. New York: Routledge. 1st ed., 1990.
 * Cone, Edward T. 1974. [*The Composer’s Voice*](http://www.ucpress.edu/op.php?isbn=9780520046474). Berkeley: University of California Press.
 * ———. 1989. [*Music: A View from Delft; Selected Essays*](https://www.amazon.com/Music-View-Delft-Selected-Essays/dp/0226114708/). Edited by Robert P. Morgan. Chicago: The University of Chicago Press.
@@ -33,6 +34,7 @@ A list of books and articles in (mostly) musicology that have radically changed 
 * Newark, Cormac. 2011. [*Opera in the Novel from Balzac to Proust*](https://www.amazon.com/Opera-Balzac-Proust-Cambridge-Studies/dp/0521118905/). New York: Cambridge University Press.
 * Poizat, Michel. (1986) 1992. [*The Angel’s Cry: Beyond the Pleasure Principle in Opera*](https://www.amazon.com/Angels-Cry-Beyond-Pleasure-Principle/dp/0801423880/). Translated by Arthur Denner. Ithaca, NY: Cornell University. Originally published as *L’Opéra, ou Le Cri de l’ange: Essai sur la jouissance de l’amateur d’opéra* (Paris: Éditions A. M. Métailié).
 * Schenker, Heinrich. (1935) 1979. *Free Composition: Volume III of New Musical Theories and Fantasies*. Translated and edited by Ernst Oster. 2 vols. New York: Longman. Originally published as *Der freie Satz* (Vienna: Universal Edition). Reprint, Hillsdale, NY: Pendragon Press, 2001.
+* Sousanis, Nick. 2015. [*Unflattening*](https://www.amazon.com/Unflattening-Nick-Sousanis/dp/0674744438/). Cambridge, MA: Harvard University Press.
 * Sterne, Jonathan. 2003. [*The Audible Past: Cultural Origins of Sound Reproduction*](https://www.amazon.com/Audible-Past-Cultural-Origins-Reproduction/dp/082233013X/). Durham, NC: Duke University Press.
 * ———. 2006. “[The MP3 as Cultural Artifact](http://sterneworks.org/mp3.pdf).” *New Media & Society* 8 (5): 825–42.
 * ———. 2012. [*MP3: The Meaning of a Format*](https://www.amazon.com/MP3-Meaning-Format-Storage-Transmission/dp/0822352877/). Durham, NC: Duke University Press.
