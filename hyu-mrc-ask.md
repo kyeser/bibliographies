@@ -43,6 +43,7 @@
 * Martin, Michélle. 1989. “[Capitalizing on the ‘Feminine’ Voice](http://www.cjc-online.ca/index.php/journal/article/view/518).” *Canadian Journal of Communication* 14 (3): 42–62.
 * Matsue, Jennifer Milioto. 2009. [*Making Music in Japan’s Underground: The Tokyo Hardcore Scene*](https://www.amazon.com/Making-Music-Japans-Underground-Sociology/dp/0415897998/). New York: Routledge.
 * McLuhan, Marshall. (1964) 1994. [*Understanding Media: The Extensions of Man*](https://www.amazon.com/Understanding-Media-Extensions-Marshall-McLuhan/dp/0262631598/). Cambridge, MA: The MIT Press.
+* Miles, Malcolm. 1997. [*Art, Space and the City: Public Art and Urban Futures*](https://www.amazon.com/Art-Space-City-Malcolm-Miles/dp/0415139430/). London: Routledge.
 * Miller, Kiri. 2012. [*Playing Along: Digital Games, YouTube, and Virtual Performance*](https://www.amazon.com/Playing-Along-Digital-YouTube-Performance/dp/0199753466/). New York: Oxford University Press.
 * Mills, Mara. 2011a. “[Deafening: Noise and the Engineering of Communication in the Telephone System](http://www.mitpressjournals.org/doi/abs/10.1162/GREY_a_00028).” *Grey Room*, no. 43, 118–43.
 * ———. 2011b. “[Hearing Aids and the History of Electronics Miniaturization](ieeexplore.ieee.org/iel5/85/5771303/05771310.pdf).” *IEEE Annals of the History of Computing* 33 (2): 24–44.
@@ -56,25 +57,24 @@
 * ———. 2013. [*Japanoise: Music at the Edge of Circulation*](https://www.amazon.com/Japanoise-Music-Circulation-Storage-Transmission/dp/082235392X/). Durham, NC: Duke University Press.
 * Novak, David, and Matt Sakakeeny, eds. 2015. [*Keywords in Sound*](https://www.amazon.com/Keywords-Sound-David-Novak/dp/0822358891/). Durham, NC: Duke University Press.
 * Picker, John. 2003. [*Victorian Soundscapes*](https://www.amazon.com/Victorian-Soundscapes-John-M-Picker/dp/0195151917/). New York: Oxford University Press.
-* Radovac, Lilian. 2015. “Muting Dissent: New York City’s Sound Device Ordinance and the Liberalization of the Public Sphere.” *Radical History Review*, no. 121, 32–50.
-* Rieser, Martin, ed. 2011. *The Mobile Audience: Media Art and Mobile Technologies*. With an Introduction by Howard Rheingold. Amsterdam: Rodopi.
-* Rodgers, Tara. 2010. *Pink Noises: Women on Electronic Music and Sound*. Durham, NC: Duke University Press.
-* Samuels, David W., Lousie Meintjes, Ana Maria Ochoa, and Thomas Porcello. 2010. “Soundscapes: Toward a Sounded Anthrpology.” *Annual Review of Anthropology* 39:329–45.
-* Saunders, Angharad, and Kate Moles. 2014. “Sound Response: The Public Reception of Audio Walks.” In *The Uses of Art in Public Space*, edited by Julia Lossau and Quentin Stevens, 98–112. New York: Routledge.
-* Schafer, R. Murray. 1994. *The Soundscape: Our Sonic Environment and the Tuning of the World*. Rochester, VT: Destiny Books.
-* Schwartz, Hillel. 2011. *Making Noise: From Babel to the Big Bang and Beyond*. New York: Zone Books.
+* Radovac, Lilian. 2015. “[Muting Dissent: New York City’s Sound Device Ordinance and the Liberalization of the Public Sphere](http://rhr.dukejournals.org/content/2015/121/32.abstract).” *Radical History Review*, no. 121, 32–50.
+* Rieser, Martin, ed. 2011. [*The Mobile Audience: Media Art and Mobile Technologies*](https://www.amazon.com/Mobile-Audience-Technologies-Architecture-Technology/dp/9042031271). With an Introduction by Howard Rheingold. Amsterdam: Rodopi.
+* Rodgers, Tara. 2010. [*Pink Noises: Women on Electronic Music and Sound*](https://www.amazon.com/Pink-Noises-Women-Electronic-Music/dp/0822346737/ref=sr_1_1?ie=UTF8&qid=1484360012&sr=8-1&keywords=Pink+Noises%3A+Women+on+Electronic+Music+and+Sound). Durham, NC: Duke University Press.
+* Samuels, David W., Lousie Meintjes, Ana Maria Ochoa, and Thomas Porcello. 2010. “[Soundscapes: Toward a Sounded Anthrpology](http://www.annualreviews.org/doi/abs/10.1146/annurev-anthro-022510-132230).” *Annual Review of Anthropology* 39:329–45.
+* Saunders, Angharad, and Kate Moles. 2014. “Sound Response: The Public Reception of Audio Walks.” In [*The Uses of Art in Public Space*](https://www.amazon.com/Public-Routledge-Advances-Visual-Studies/dp/113879760X/), edited by Julia Lossau and Quentin Stevens, 98–112. New York: Routledge.
+* Schafer, R. Murray. 1994. [*The Soundscape: Our Sonic Environment and the Tuning of the World*](https://www.amazon.com/Soundscape-R-Murray-Schafer/dp/0892814551/). Rochester, VT: Destiny Books.
+* Schwartz, Hillel. 2011. [*Making Noise: From Babel to the Big Bang and Beyond*](https://www.amazon.com/Making-Noise-Babel-Bang-Beyond/dp/1935408127). New York: Zone Books.
 * Sexton, Jamie, ed. 2007. *Music, Sound and Multimedia: From the Live to the Virtual*. Edinburgh: Edinburgh University Press.
 * Sterne, Jonathan. 2003. [*The Audible Past: Cultural Origins of Sound Reproduction*](https://www.amazon.com/Audible-Past-Cultural-Origins-Reproduction/dp/082233013X/). Durham, NC: Duke University Press.
 * ———. 2006. “[The MP3 as Cultural Artifact](http://sterneworks.org/mp3.pdf).” *New Media & Society* 8 (5): 825–42.
 * ———. 2012. [*MP3: The Meaning of a Format*](https://www.amazon.com/MP3-Meaning-Format-Storage-Transmission/dp/0822352877/). Durham, NC: Duke University Press.
 * Sterne, Jonathan, ed. 2012. [*The Sound Studies Reader*](https://www.amazon.com/Sound-Studies-Reader-Jonathan-Sterne/dp/0415771315/). New York: Routledge.
-* Stocker, Michael. 2013. *Hear Where We Are: Sound, Ecology, and Sense of Place*. New York: Springer.
-* Suisman, David. 2009. *Selling Sounds: The Commercial Revolution in American Music*. Cambridge, MA: Harvard University Press.
-* Suisman, David, and Susan Strasser, eds. 2010. *Sound in the Age of Mechanical Reproduction*. Philadelphia: University of Pennsylvania Press.
-* Szendy, Peter. (2001) 2008. *Listen: A History of Our Ears*. Translated by Charlotte Mandell. New York: Fordham University Press.
+* Stocker, Michael. 2013. [*Hear Where We Are: Sound, Ecology, and Sense of Place*](https://www.amazon.com/dp/1461472849/). New York: Springer.
+* Suisman, David. 2009. [*Selling Sounds: The Commercial Revolution in American Music*](https://www.amazon.com/Selling-Sounds-Commercial-Revolution-American/dp/0674064046/). Cambridge, MA: Harvard University Press.
+* Suisman, David, and Susan Strasser, eds. 2010. [*Sound in the Age of Mechanical Reproduction*](https://www.amazon.com/Mechanical-Reproduction-Perspectives-Business-Culture/dp/0812241991). Philadelphia: University of Pennsylvania Press.
+* Szendy, Peter. (2001) 2008. [*Listen: A History of Our Ears*](http://fordhampress.com/index.php/listen-paperback.html). Translated by Charlotte Mandell. New York: Fordham University Press.
 * Thompson, Emily. 2002. [*The Soundscape of Modernity: Architectural Acoustics and the Culture of Listening in America, 1900–1933*](https://www.amazon.com/Soundscape-Modernity-Architectural-Acoustics-1900-1933/dp/0262701065/). Cambridge, MA: The MIT Press.
-* Thompson, Marie, and Ian Biddle, eds. 2013. *Sound, Music, Affect: Theorizing Sonic Experience*. New York: Bloomsbury.
-* Tudor, J. M. 2010. *Sound and Sense: Music and Musical Metaphor in the Thought and Writing of Goethe and His Age*. New York: Peter Lang.
-* Urry, John. 1995. *Consuming Places*. New York: Taylor & Francis.
-* Voegelin, Salomé. 2010. *Listening to Noise and Silence: Towards a Philosophy of Sound Art*. New York: Continuum.
-* Young, Iris Marion. 2005. *On Female Body Experience: “Throwing Like a Girl” and Other Essays*. New York: Oxford University Press.
+* Thompson, Marie, and Ian Biddle, eds. 2013. [*Sound, Music, Affect: Theorizing Sonic Experience*](https://www.amazon.com/Sound-Music-Affect-Theorizing-Experience/dp/144111467X/). New York: Bloomsbury.
+* Tudor, J. M. 2010. [*Sound and Sense: Music and Musical Metaphor in the Thought and Writing of Goethe and His Age*](https://www.amazon.com/Sound-Sense-Britische-deutschen-Literature/dp/3034302371/). New York: Peter Lang.
+* Voegelin, Salomé. 2010. [*Listening to Noise and Silence: Towards a Philosophy of Sound Art*](https://www.amazon.com/Listening-Noise-Silence-Towards-Philosophy/dp/1441162070/). New York: Continuum.
+* Young, Iris Marion. 2005. [*On Female Body Experience: “Throwing Like a Girl” and Other Essays*](https://www.amazon.com/Female-Body-Experience-Throwing-Philosophy/dp/0195161939/). New York: Oxford University Press.
