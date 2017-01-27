@@ -68,7 +68,7 @@
 * Saunders, Angharad, and Kate Moles. 2014. “Sound Response: The Public Reception of Audio Walks.” In [*The Uses of Art in Public Space*](https://www.amazon.com/Public-Routledge-Advances-Visual-Studies/dp/113879760X/), edited by Julia Lossau and Quentin Stevens, 98–112. New York: Routledge.
 * Schafer, R. Murray. 1994. [*The Soundscape: Our Sonic Environment and the Tuning of the World*](https://www.amazon.com/Soundscape-R-Murray-Schafer/dp/0892814551/). Rochester, VT: Destiny Books.
 * Schwartz, Hillel. 2011. [*Making Noise: From Babel to the Big Bang and Beyond*](https://www.amazon.com/Making-Noise-Babel-Bang-Beyond/dp/1935408127). New York: Zone Books.
-* Sexton, Jamie, ed. 2007. *Music, Sound and Multimedia: From the Live to the Virtual*. Edinburgh: Edinburgh University Press.
+* Sexton, Jamie, ed. 2007. [*Music, Sound and Multimedia: From the Live to the Virtual*](https://www.amazon.co.uk/Music-Sound-Multimedia-Virtual-Moving/dp/0748625348). Edinburgh: Edinburgh University Press.
 * Sterne, Jonathan. 2003. [*The Audible Past: Cultural Origins of Sound Reproduction*](https://www.amazon.com/Audible-Past-Cultural-Origins-Reproduction/dp/082233013X/). Durham, NC: Duke University Press.
 * ———. 2006. “[The MP3 as Cultural Artifact](http://sterneworks.org/mp3.pdf).” *New Media & Society* 8 (5): 825–42.
 * ———. 2012. [*MP3: The Meaning of a Format*](https://www.amazon.com/MP3-Meaning-Format-Storage-Transmission/dp/0822352877/). Durham, NC: Duke University Press.
