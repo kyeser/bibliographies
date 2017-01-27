@@ -14,10 +14,13 @@
 * Born, Georgina. 2005. “[On Musical Mediation: Ontology, Technology and Creativity](https://www.cambridge.org/core/journals/twentieth-century-music/article/on-musical-mediation-ontology-technology-and-creativity/F4AEC9ED7060E5E3DD338F4FA5E4E947).” *Twentieth-Century Music* 2 (1): 7–36.
 * Born, Georgina, ed. 2013. [*Music, Sound and Space: Transformations of Public and Private Experience*](https://www.amazon.com/Music-Sound-Space-Transformations-Experience/dp/1107504120/). Cambridge: Cambridge University Press.
 * Bull, Michael. 2008. [*Sound Moves: iPod Culture and Urban Experience*](https://www.amazon.com/Sound-Moves-Experience-International-Sociology/dp/0415257522/). New York: Routledge.
+* Bull, Michael, and Les Back, eds. 2016. [*The Auditory Culture Reader*](https://www.amazon.com/Auditory-Culture-Reader-Sensory-Formations/dp/1472569024/). 2nd ed. London: Bloomsbury. First published 2003 by Berg.
 * Cheng, William. 2014. [*Sound Play: Video Games and the Musical Imagination*](https://www.amazon.com/Sound-Play-Musical-Imagination-Oxford/dp/0199969973/). New York: Oxford University Press.
 * ———. 2016. [*Just Vibrations: The Purpose of Sounding Good*](http://dx.doi.org/10.3998/mpub.9293551). Ann Arbor: University of Michigan Press.
+* Cobussen, Marcel, and Nanette Nielsen. 2012. [*Music and Ethics*](https://www.amazon.com/Music-Ethics-Marcel-Cobussen/dp/1409434966/). Farnham, Surrey: Ashgate.
 * Crawford, Kate. 2009. “[Following You: Disciplines of Listening in Social Media](http://www.tandfonline.com/doi/abs/10.1080/10304310903003270).” *Continuum: Journal of Media and Cultural Studies* 23 (4): 525–35.
 * Daughtry, J. Martin. 2015. [*Listening to War: Sound, Music, Trauma, and Survival in Wartime Iraq*](https://www.amazon.com/Listening-War-Trauma-Survival-Wartime/dp/0199361495/). New York: Oxford University Press.
+* DeNora, Tia (2000). [*Music in Everyday Life*](https://www.amazon.com/Music-Everyday-Life-Tia-DeNora/dp/052162732X/). Cambridge: Cambridge University Press.
 * Erlmann, Veit. 2010. [*Reason and Resonance: A History of Modern Aurality*](https://www.amazon.com/Reason-Resonance-History-Modern-Aurality/dp/1935408054/). New York: Zone Books.
 * Erlmann, Veit, ed. 2004. [*Hearing Cultures: Essays on Sound, Listening and Modernity*](https://www.amazon.com/Hearing-Cultures-Listening-Wenner-Gren-International/dp/1859738230/). Wenner-Gren International Symposium Series. Oxford: Berg.
 * Farina, Almo. 2014. [*Soundscape Ecology: Principles, Patterns, Methods and Applications*](https://www.amazon.com/Soundscape-Ecology-Principles-Patterns-Applications-ebook/dp/B00G9QPK5E/). Dordrecht: Springer.
