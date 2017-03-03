@@ -7,6 +7,7 @@
 * Dubeck, Leroy W., Suzanne E. Moshier, and Judith E. Boss. 2004. *Fantastic Voyages: Learning Science Through Science Fiction Films*. 2nd ed. New York: Springer-Verlag.
 * Feldstein, Richard, Bruce Fink, and Maire Jaanus, eds. 1995. *Reading Seminar XI: Lacan’s Four Fundamental Concepts of Psychoanalysis; The Paris Seminars in English*. Albany: State University of New York Press.
 * Flinn, Caryl. 1992. *Strains of Utopia: Gender, Nostalgia, and Hollywood Film Music*. Princeton, NJ: Princeton University Press.
+* Hayward, Philip, ed. 2004. *Off the Planet: Music, Sound and Science Fiction Cinema*. Bloomington: Indiana University Press.
 * McGowan, Todd. 2003. “Looking for the Gaze: Lacanian Film Theory and Its Vicissitudes.” *Cinema Journal* 42 (3): 27–47.
 * ———. 2007. *The Real Gaze: Film Theory after Lacan*. Albany: State University of New York Press.
 * Mowitt, John. 2015. *Sounds: The Ambient Humanities*. Berkeley: University of California Press.
