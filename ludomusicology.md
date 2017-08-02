@@ -17,5 +17,6 @@ Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicolog
 * Mäyrä, Frans. 2008. [*An Introduction to Game Studies*](https://www.amazon.com/Introduction-Game-Studies-Frans-Mayra/dp/141293446X/). London: SAGE.
 * Miller, Kiri. 2012. [*Playing Along: Digital Games, YouTube, and Virtual Performance*](https://www.amazon.com/Playing-Along-Digital-YouTube-Performance/dp/0199753466/). New York: Oxford University Press.
 * Moseley, Roger. 2013. “Playing Games with Music (and Vice Versa): Ludomusicological Perspectives on Guitar Hero and Rock Band.” In [*Taking It to the Bridge: Music as Performance*](https://www.amazon.com/Taking-Bridge-Music-as-Performance/dp/0472051776/), edited by Nicholas Cook and Richard Pettengill, 279–318. Ann Arbor: The University of Michigan Press.
+* ———. 2016. [*Keys to Play: Music as a Ludic Medium from Apollo to Nintendo*](https://doi.org/10.1525/luminos.16). Oakland: University of California Press. 
 * Schartmann, Andrew. 2013. [*Maestro Mario: How Nintendo Transformed Videogame Music into an Art*](https://www.amazon.com/Maestro-Mario-Andrew-Schartmann-ebook/dp/B00IB1XMZ0/). New York: Thought Catalog.
 * Summers, Tim. 2016. [*Understanding Video Game Music*](https://www.amazon.com/Understanding-Video-Game-Music-Summers/dp/1107116872/). Cambridge: Cambridge University Press.
