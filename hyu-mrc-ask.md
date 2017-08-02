@@ -24,8 +24,9 @@ Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicolog
 * Bull, Michael, and Les Back, eds. 2016. [*The Auditory Culture Reader*](https://www.amazon.com/Auditory-Culture-Reader-Sensory-Formations/dp/1472569024/). 2nd ed. London: Bloomsbury. First published 2003 by Berg.
 * Cheng, William. 2014. [*Sound Play: Video Games and the Musical Imagination*](https://www.amazon.com/Sound-Play-Musical-Imagination-Oxford/dp/0199969973/). New York: Oxford University Press.
 * ———. 2016. [*Just Vibrations: The Purpose of Sounding Good*](http://dx.doi.org/10.3998/mpub.9293551). Ann Arbor: University of Michigan Press.
-* Cox, Christoph, and Daniel Warner, eds. 2017. [*Audio Culture: Readings in Modern Music*](https://www.amazon.com/Audio-Culture-Revised-Readings-Modern/dp/1501318365/). Rev. ed. New York: Bloomsbury. 1st ed., New York: Continuum, 2004.
 * Cobussen, Marcel, and Nanette Nielsen. 2012. [*Music and Ethics*](https://www.amazon.com/Music-Ethics-Marcel-Cobussen/dp/1409434966/). Farnham, Surrey: Ashgate.
+* Cook, Nicholas, and Richard Pettengill, eds. 2013. [*Taking It to the Bridge: Music as Performance*](https://www.amazon.com/Taking-Bridge-Music-as-Performance/dp/0472051776/). Ann Arbor: The University of Michigan Press.
+* Cox, Christoph, and Daniel Warner, eds. 2017. [*Audio Culture: Readings in Modern Music*](https://www.amazon.com/Audio-Culture-Revised-Readings-Modern/dp/1501318365/). Rev. ed. New York: Bloomsbury. 1st ed., New York: Continuum, 2004.
 * Crawford, Kate. 2009. “[Following You: Disciplines of Listening in Social Media](http://www.tandfonline.com/doi/abs/10.1080/10304310903003270).” *Continuum: Journal of Media and Cultural Studies* 23 (4): 525–35.
 * Daughtry, J. Martin. 2015. [*Listening to War: Sound, Music, Trauma, and Survival in Wartime Iraq*](https://www.amazon.com/Listening-War-Trauma-Survival-Wartime/dp/0199361495/). New York: Oxford University Press.
 * DeNora, Tia. 2000. [*Music in Everyday Life*](https://www.amazon.com/Music-Everyday-Life-Tia-DeNora/dp/052162732X/). Cambridge: Cambridge University Press.
