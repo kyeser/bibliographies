@@ -4,7 +4,7 @@
 
 Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicology.com).
 
-(Last updated 1 August 2017)
+(Last updated 2 August 2017)
 
 * Abbate, Carolyn. 2016. “[Sound Object Lessons](http://jams.ucpress.edu/content/69/3/793).” *Journal of the American Musicological Society* 69 (3): 793–829.
 * Allen, Aaron S., and Kevin Dawe, eds. 2016. [*Current Directions in Ecomusicology: Music, Culture, Nature*](https://www.amazon.com/Current-Directions-Ecomusicology-Routledge-Research/dp/1138804584/). Routledge Research in Music. New York: Routledge. [http://www.ecomusicology.info](http://www.ecomusicology.info).
