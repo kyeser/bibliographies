@@ -2,7 +2,7 @@
 
 Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicology.com).
 
-(Last updated 2 August 2017)
+(Last updated 4 August 2017)
 
 * Austin, Michael, ed. 2016. [*Music Video Games: Performance, Politics, and Play*](https://www.amazon.com/Music-Video-Games-Performance-Approaches/dp/150130853X/). Afterword by William Cheng. New York: Bloomsbury Academic.
 * Bogost, Ian. 2011. [*How To Do Things With Videogames*](https://www.amazon.com/How-Things-Videogames-Electronic-Mediations/dp/081667647X/). Minneapolis: University of Minnesota Press.
@@ -16,6 +16,7 @@ Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicolog
 * Cook, James. 2016. “Playing with the Past in the Imagined Middle Ages: Music and Soundscape in Video Game.” *Sounding Out!*, October 3. [https://soundstudiesblog.com/2016/10/03/playing-with-the-past-in-the-imagined-middle-ages-music-and-soundscape-in-video-game/](https://soundstudiesblog.com/2016/10/03/playing-with-the-past-in-the-imagined-middle-ages-music-and-soundscape-in-video-game/).
 * Donnelly, K. J., William Gibbons, and Neil Lerner, eds. 2014. [*Music in Video Games: Studying Play*](https://www.amazon.com/Music-Video-Games-Studying-Routledge/dp/041563444X/). New York: Routledge.
 * Dyer-Witheford, Nick, and Greig De Peuter. 2009. [*Games of Empire: Global Capitalism and Video Games*](https://www.amazon.com/Games-Empire-Capitalism-Electronic-Mediations/dp/0816666113). Minneapolis: University of Minnesota Press.
+* Kamp, Michiel, Tim Summers, and Mark Sweeney, eds. 2016. [*Ludomusicology: Approaches to Video Game Music*](https://www.equinoxpub.com/home/ludomusicology/). Sheffield: Equinox.
 * Mäyrä, Frans. 2008. [*An Introduction to Game Studies*](https://www.amazon.com/Introduction-Game-Studies-Frans-Mayra/dp/141293446X/). London: SAGE.
 * Miller, Kiri. 2012. [*Playing Along: Digital Games, YouTube, and Virtual Performance*](https://www.amazon.com/Playing-Along-Digital-YouTube-Performance/dp/0199753466/). New York: Oxford University Press.
 * Moseley, Roger. 2013a. “Digital Analogies: Techniques of Sonic Play.” *Sounding Out!*, November 4. [https://soundstudiesblog.com/2013/11/04/digital-analogies-techniques-of-sonic-play/](https://soundstudiesblog.com/2013/11/04/digital-analogies-techniques-of-sonic-play/).
