@@ -1,10 +1,12 @@
-# 한양대학교 음악연구소 중점연구 참고문헌
+# Sound Studies
 
-아래 참고문헌 목록은 작성자(=[계희승](http://undoingmusicology.com))의 개인 관심사와 우선순위에 따라 작성되었으며 [한양대학교 음악연구소 중점연구](http://mrc.hanyang.ac.kr/ask-research/)의 연구 방향 및 의견을 대표 또는 반영하지 않습니다.
+[한양대학교 음악연구소 중점연구](http://mrc.hanyang.ac.kr/ask-research/) 참고문헌 (“Sound, Space, and Mobility” at Music Research Center, Hanyang University)
+
+아래 참고문헌 목록은 작성자(=[계희승](http://undoingmusicology.com))의 개인 관심사와 우선순위에 따라 작성되었으며 한양대학교 음악연구소 중점연구의 연구 방향 및 의견을 대표 또는 반영하지 않습니다.
 
 Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicology.com).
 
-(Last updated 2 August 2017)
+(Last updated 4 August 2017)
 
 * Abbate, Carolyn. 2016. “[Sound Object Lessons](http://jams.ucpress.edu/content/69/3/793).” *Journal of the American Musicological Society* 69 (3): 793–829.
 * Allen, Aaron S., and Kevin Dawe, eds. 2016. [*Current Directions in Ecomusicology: Music, Culture, Nature*](https://www.amazon.com/Current-Directions-Ecomusicology-Routledge-Research/dp/1138804584/). Routledge Research in Music. New York: Routledge. [http://www.ecomusicology.info](http://www.ecomusicology.info).
