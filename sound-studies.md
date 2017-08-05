@@ -6,7 +6,7 @@
 
 Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicology.com).
 
-(Last updated 4 August 2017)
+(Last updated 5 August 2017)
 
 * Abbate, Carolyn. 2016. “[Sound Object Lessons](http://jams.ucpress.edu/content/69/3/793).” *Journal of the American Musicological Society* 69 (3): 793–829.
 * Allen, Aaron S., and Kevin Dawe, eds. 2016. [*Current Directions in Ecomusicology: Music, Culture, Nature*](https://www.amazon.com/Current-Directions-Ecomusicology-Routledge-Research/dp/1138804584/). Routledge Research in Music. New York: Routledge. [http://www.ecomusicology.info](http://www.ecomusicology.info).
@@ -49,6 +49,7 @@ Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicolog
 * Hill, Edwin C. 2013. [*Black Soundscapes White Stages: The Meaning of Francophone Sound in the Black Atlantic*](https://www.amazon.com/Black-Soundscapes-White-Stages-Francophone/dp/1421410591/). Baltimore: The Johns Hopkins University Press.
 * Hirschkind, Charles. 2006. [*The Ethical Soundscape: Cassette Sermons and Islamic Counterpublics*](https://www.amazon.com/Ethical-Soundscape-Cassette-Counterpublics-Cultures/dp/0231138180/). New York: Columbia University Press.
 * Hosokawa, Shuhei. 1984. “[The Walkman Effect](http://www.jstor.org/stable/853362).” *Popular Music* 4:165–80.
+* Howe, Blake, Stephanie Jensen-Moulton, Neil Lerner, and Joseph Straus, eds. 2016. [*The Oxford Handbook of Music and Disability Studies*](https://www.amazon.com/Oxford-Handbook-Disability-Studies-Handbooks/dp/0190650605/). New York: Oxford University Press.
 * Ihde, Don. (1976) 2007. [*Listening and Voice: A Phenomenology of Sound*](https://www.amazon.com/Listening-Voice-Phenomenologies-Don-Ihde/dp/0791472566/). 2nd ed. Albany: State University of New York Press.
 * Kane, Brian. 2014. [*Sound Unseen: Acousmatic Sound in Theory and Practice*](https://www.amazon.com/Sound-Unseen-Acousmatic-Theory-Practice/dp/0190632216/). New York: Oxford University Press.
 * Kang, Jian, and Brigitte Schulte-Fortkamp, eds. 2016. [*Soundscape and the Built Environment*](https://www.amazon.com/Soundscape-Built-Environment-Jian-Kang-ebook/dp/B018TVFZB0/). Boca Raton, FL: CRC Press.
