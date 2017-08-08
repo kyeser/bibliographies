@@ -6,10 +6,11 @@
 
 Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicology.com).
 
-(Last updated 5 August 2017)
+(Last updated 8 August 2017)
 
 * Abbate, Carolyn. 2016. “[Sound Object Lessons](http://jams.ucpress.edu/content/69/3/793).” *Journal of the American Musicological Society* 69 (3): 793–829.
 * Allen, Aaron S., and Kevin Dawe, eds. 2016. [*Current Directions in Ecomusicology: Music, Culture, Nature*](https://www.amazon.com/Current-Directions-Ecomusicology-Routledge-Research/dp/1138804584/). Routledge Research in Music. New York: Routledge. [http://www.ecomusicology.info](http://www.ecomusicology.info).
+* Alter, Nora M., and Lutz Koepnick, eds. 2004. [*Sound Matters: Essays on the Acoustics of German Culture*](https://www.amazon.com/Sound-Matters-Essays-Acoustics-Culture/dp/157181437X/). New York: Berghahn.
 * Attali, Jacques. (1977) 1985. [*Noise: The Political Economy*](https://www.amazon.com/Noise-Political-Economy-History-Literature/dp/0816612870/). Translated by Brian Massumi. Foreword by Fredric Jameson. Afterword by Susan McClary. Minneapolis: University of Minnesota Press. Originally published as *Bruits: essai sur l’économie politique de la musique* (Paris: Presses Universitaires de France).
 * Baade, Christina L., and James Deaville, eds. 2016. [*Music and the Broadcast Experience: Performance, Production, and Audiences*](https://www.amazon.com/Music-Broadcast-Experience-Performance-Production/dp/0199314713/). New York: Oxford University Press.
 * Belgiojoso, Ricciarda. 2014. [*Constructing Urban Space with Sounds and Music*](https://www.routledge.com/Constructing-Urban-Space-with-Sounds-and-Music/Belgiojoso/p/book/9781472424648). Farnham: Ashgate.
