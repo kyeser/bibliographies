@@ -5,6 +5,7 @@ Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicolog
 (Last updated 10 August 2017)
 
 * Austin, Michael, ed. 2016. [*Music Video Games: Performance, Politics, and Play*](https://www.amazon.com/Music-Video-Games-Performance-Approaches/dp/150130853X/). Afterword by William Cheng. New York: Bloomsbury Academic.
+* Bongiovanni, Pippin. 2017. “[8-bit Nostalgia and Hollywood Glamour: The Modern Autonomy of Video Game Audio](http://www.musicologyresearch.co.uk/publications/pippinbongiovanni-8-bitnostalgiaandhollywoodglamour).” *Musicology Research*, no. 2, 159–81.
 * Bogost, Ian. 2011. [*How To Do Things With Videogames*](https://www.amazon.com/How-Things-Videogames-Electronic-Mediations/dp/081667647X/). Minneapolis: University of Minnesota Press.
 * Cheng, William. 2012. “[Role-Playing toward a Virtual Musical Democracy in *The Lord of the Rings Online*](http://www.jstor.org/stable/10.5406/ethnomusicology.56.1.0031).” *Ethnomusicology* 56 (1): 31–62.
 * ———. 2013. “Monstrous Noise: *Silent Hill* and the Aesthetic Economies of Fear.” In [*The Oxford Handbook of Sound and Image in Digital Media*](https://www.amazon.com/Oxford-Handbook-Sound-Digital-Handbooks/dp/019975764X/), edited by Carol Vernallis, John Richardson, and Amy Herzog, 173–90. New York: Oxford University Press.
