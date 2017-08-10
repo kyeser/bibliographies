@@ -2,7 +2,7 @@
 
 Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicology.com).
 
-(Last updated 4 August 2017)
+(Last updated 10 August 2017)
 
 * Austin, Michael, ed. 2016. [*Music Video Games: Performance, Politics, and Play*](https://www.amazon.com/Music-Video-Games-Performance-Approaches/dp/150130853X/). Afterword by William Cheng. New York: Bloomsbury Academic.
 * Bogost, Ian. 2011. [*How To Do Things With Videogames*](https://www.amazon.com/How-Things-Videogames-Electronic-Mediations/dp/081667647X/). Minneapolis: University of Minnesota Press.
@@ -21,7 +21,9 @@ Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicolog
 * Miller, Kiri. 2012. [*Playing Along: Digital Games, YouTube, and Virtual Performance*](https://www.amazon.com/Playing-Along-Digital-YouTube-Performance/dp/0199753466/). New York: Oxford University Press.
 * Moseley, Roger. 2013a. “Digital Analogies: Techniques of Sonic Play.” *Sounding Out!*, November 4. [https://soundstudiesblog.com/2013/11/04/digital-analogies-techniques-of-sonic-play/](https://soundstudiesblog.com/2013/11/04/digital-analogies-techniques-of-sonic-play/).
 * ———. 2013b. “Playing Games with Music (and Vice Versa): Ludomusicological Perspectives on Guitar Hero and Rock Band.” In [*Taking It to the Bridge: Music as Performance*](https://www.amazon.com/Taking-Bridge-Music-as-Performance/dp/0472051776/), edited by Nicholas Cook and Richard Pettengill, 279–318. Ann Arbor: The University of Michigan Press.
-* ———. 2016. [*Keys to Play: Music as a Ludic Medium from Apollo to Nintendo*](https://doi.org/10.1525/luminos.16). Oakland: University of California Press. 
+* ———. 2016. [*Keys to Play: Music as a Ludic Medium from Apollo to Nintendo*](https://doi.org/10.1525/luminos.16). Oakland: University of California Press.
+* Munday, Rod. 2007. “Music in Video Games.” In [*Music, Sound and Multimedia: From the Live to the Virtual*](http://edinburgh.universitypressscholarship.com/view/10.3366/edinburgh/9780748625338.001.0001/upso-9780748625338), edited by Jamie Sexton , 51–67. Edinburgh: Edinburgh University Press.
 * Schartmann, Andrew. 2013. [*Maestro Mario: How Nintendo Transformed Videogame Music into an Art*](https://www.amazon.com/Maestro-Mario-Andrew-Schartmann-ebook/dp/B00IB1XMZ0/). New York: Thought Catalog.
 * Sihvonen, Tanja. 2011. [*Players Unleashed! Modding “The Sims” and the Culture of Gaming*](https://www.amazon.com/Players-Unleashed-Amsterdam-University-MediaMatters/dp/9089642013). Amsterdam: Amsterdam University Press.
 * Summers, Tim. 2016. [*Understanding Video Game Music*](https://www.amazon.com/Understanding-Video-Game-Music-Summers/dp/1107116872/). Cambridge: Cambridge University Press.
+* Whalen, Zach. 2007. “Video Game Music: The Case of *Silent Hill*.” In [*Music, Sound and Multimedia: From the Live to the Virtual*](http://edinburgh.universitypressscholarship.com/view/10.3366/edinburgh/9780748625338.001.0001/upso-9780748625338), edited by Jamie Sexton, 68–81. Edinburgh: Edinburgh University Press.
