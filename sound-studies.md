@@ -6,13 +6,14 @@
 
 Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicology.com).
 
-(Last updated 8 August 2017)
+(Last updated 13 August 2017)
 
 * Abbate, Carolyn. 2016. “[Sound Object Lessons](http://jams.ucpress.edu/content/69/3/793).” *Journal of the American Musicological Society* 69 (3): 793–829.
 * Allen, Aaron S., and Kevin Dawe, eds. 2016. [*Current Directions in Ecomusicology: Music, Culture, Nature*](https://www.amazon.com/Current-Directions-Ecomusicology-Routledge-Research/dp/1138804584/). Routledge Research in Music. New York: Routledge. [http://www.ecomusicology.info](http://www.ecomusicology.info).
 * Alter, Nora M., and Lutz Koepnick, eds. 2004. [*Sound Matters: Essays on the Acoustics of German Culture*](https://www.amazon.com/Sound-Matters-Essays-Acoustics-Culture/dp/157181437X/). New York: Berghahn.
 * Attali, Jacques. (1977) 1985. [*Noise: The Political Economy*](https://www.amazon.com/Noise-Political-Economy-History-Literature/dp/0816612870/). Translated by Brian Massumi. Foreword by Fredric Jameson. Afterword by Susan McClary. Minneapolis: University of Minnesota Press. Originally published as *Bruits: essai sur l’économie politique de la musique* (Paris: Presses Universitaires de France).
 * Baade, Christina L., and James Deaville, eds. 2016. [*Music and the Broadcast Experience: Performance, Production, and Audiences*](https://www.amazon.com/Music-Broadcast-Experience-Performance-Production/dp/0199314713/). New York: Oxford University Press.
+* Baumann, Dorothea. 2011. [*Music and Space: A Systematic and Historical Investigation into the Impact of Architectural Acoustics on Performance Practice Followed by a Study of Handel’s “Messiah”*](https://www.peterlang.com/view/product/44539). Bern: Peter Lang.
 * Belgiojoso, Ricciarda. 2014. [*Constructing Urban Space with Sounds and Music*](https://www.routledge.com/Constructing-Urban-Space-with-Sounds-and-Music/Belgiojoso/p/book/9781472424648). Farnham: Ashgate.
 * Benjamin, Walter. 2008. [*The Work of Art in the Age of Its Technological Reproducibility, and Other Writings on Media*](https://www.amazon.com/Technological-Reproducibility-Other-Writings-Media/dp/0674024451/). Edited by Michael W. Jennings, Brigid Doherty, and Thomas Y. Levin. Translated by Edmund Jephcott, Rodney Livingstone, Howard Eiland, and others. Cambridge, MA: Belknap Press.
 * Biddle, Ian, and Kirsten Gibson, eds. 2017. [*Cultural Histories of Noise, Sound and Listening in Europe, 1300–1918*](https://www.amazon.com/Cultural-Histories-Listening-Europe-1300-1918/dp/1409444392/). London: Routledge.
@@ -38,6 +39,7 @@ Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicolog
 * Erlmann, Veit, ed. 2004. [*Hearing Cultures: Essays on Sound, Listening and Modernity*](https://www.amazon.com/Hearing-Cultures-Listening-Wenner-Gren-International/dp/1859738230/). Wenner-Gren International Symposium Series. Oxford: Berg.
 * Fairchild, Charles. 2012. [*Music, Radio and the Public Sphere: The Aesthetics of Democracy*](https://www.amazon.com/Music-Radio-Public-Sphere-Aesthetics/dp/0230390501/). New York: Palgrave Macmillan.
 * Farina, Almo. 2014. [*Soundscape Ecology: Principles, Patterns, Methods and Applications*](https://www.amazon.com/Soundscape-Ecology-Principles-Patterns-Applications-ebook/dp/B00G9QPK5E/). Dordrecht: Springer.
+* Fisher, Alexander J. 2014. [*Music, Piety, and Propaganda: The Soundscape of Counter-Reformation Bavaria*](https://global.oup.com/academic/product/music-piety-and-propaganda-9780199764648). New York: Oxford University Press.
 * Flisfeder, Matthew, and Louis-Paul Willis, eds. 2014. [*Žižek and Media Studies: A Reader*](https://www.amazon.com/Zizek-Media-Studies-Matthew-Flisfeder/dp/1137568208/). New York: Palgrave Macmillan.
 * Friedner, Michele, and Stefan Helmreich. 2012. “[Sound Studies Meets Deaf Studies](http://www.tandfonline.com/doi/abs/10.2752/174589312X13173255802120).” *The Senses and Society* 7 (1): 72–86.
 * Gaylin, Ann. 2003. [*Eavesdropping in the Novel from Austen to Proust*](https://www.amazon.com/Eavesdropping-Cambridge-Studies-Nineteenth-Century-Literature/dp/0521038901/). Cambridge: Cambridge University Press.
@@ -46,6 +48,7 @@ Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicolog
 * Gopinath, Sumanth, and Jason Stanyek, eds. 2014. [*The Oxford Handbook of Mobile Music Studies*](https://www.amazon.com/Oxford-Handbook-Mobile-Studies-Handbooks-ebook/dp/B00JE6SYP4/). 2 vols. New York: Oxford University Press.
 * Hankins, Joseph D., and Carolyn S. Stevens, eds. 2013. [*Sound, Space and Sociality in Modern Japan*](https://www.amazon.com/Sound-Sociality-Modern-Routledge-Contemporary/dp/113865213X/). Routledge Contemporary Japan Series. New York: Routledge.
 * Hegarty, Paul. 2007. [*Noise/Music: A History*](https://www.amazon.com/Noise-Music-History-Paul-Hegarty/dp/0826417272/). New York: Continuum.
+* Henriques, Julian. 2011. [*Sonic Bodies: Reggae Sound Systems, Performance Techniques, and Ways of Knowing*](https://www.amazon.com/Sonic-Bodies-Systems-Performance-Techniques/dp/1441144293/). New York: Continuum.
 * Hesmondhalgh, David, and Jason Toynbee, eds. 2008. [*The Media and Social Theory*](https://www.amazon.com/Media-Social-Theory-CRESC-ebook/dp/B001PNYK8O/). London: Routledge.
 * Hill, Edwin C. 2013. [*Black Soundscapes White Stages: The Meaning of Francophone Sound in the Black Atlantic*](https://www.amazon.com/Black-Soundscapes-White-Stages-Francophone/dp/1421410591/). Baltimore: The Johns Hopkins University Press.
 * Hirschkind, Charles. 2006. [*The Ethical Soundscape: Cassette Sermons and Islamic Counterpublics*](https://www.amazon.com/Ethical-Soundscape-Cassette-Counterpublics-Cultures/dp/0231138180/). New York: Columbia University Press.

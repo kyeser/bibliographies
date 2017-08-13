@@ -2,13 +2,14 @@
 
 Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicology.com).
 
-(Last updated 11 August 2017)
+(Last updated 13 August 2017)
 
 * Austin, Michael, ed. 2016. [*Music Video Games: Performance, Politics, and Play*](https://www.amazon.com/Music-Video-Games-Performance-Approaches/dp/150130853X/). Afterword by William Cheng. New York: Bloomsbury Academic.
 * Bongiovanni, Pippin. 2017. “[8-bit Nostalgia and Hollywood Glamour: The Modern Autonomy of Video Game Audio](http://www.musicologyresearch.co.uk/publications/pippinbongiovanni-8-bitnostalgiaandhollywoodglamour).” *Musicology Research*, no. 2, 159–81.
 * Bogost, Ian. 2007. [*Persuasive Games: The Expressive Power of Videogames*](https://www.amazon.com/Persuasive-Games-Expressive-Power-Videogames/dp/0262514885/). Cambridge, MA: The MIT Press.
 * ———. 2011. [*How To Do Things With Videogames*](https://www.amazon.com/How-Things-Videogames-Electronic-Mediations/dp/081667647X/). Minneapolis: University of Minnesota Press.
 * ———. 2015. [*How to Talk about Videogames*](https://www.amazon.com/Talk-about-Videogames-Electronic-Mediations/dp/0816699127/). Minneapolis: University of Minnesota Press.
+* Calleja, Gordon. 2011. [*In-Game: From Immersion to Incorporation*](https://www.amazon.com/Game-Immersion-Incorporation-MIT-Press/dp/0262015463/). Cambridge, MA: The MIT Press.
 * Cheng, William. 2012. “[Role-Playing toward a Virtual Musical Democracy in *The Lord of the Rings Online*](http://www.jstor.org/stable/10.5406/ethnomusicology.56.1.0031).” *Ethnomusicology* 56 (1): 31–62.
 * ———. 2013. “Monstrous Noise: *Silent Hill* and the Aesthetic Economies of Fear.” In [*The Oxford Handbook of Sound and Image in Digital Media*](https://www.amazon.com/Oxford-Handbook-Sound-Digital-Handbooks/dp/019975764X/), edited by Carol Vernallis, John Richardson, and Amy Herzog, 173–90. New York: Oxford University Press.
 * ———. 2014a. “Acoustemologies of the Closet.” In [*The Oxford Handbook of Virtuality*](https://www.amazon.com/Oxford-Handbook-Virtuality-Handbooks/dp/0190270357/), edited by Mark Grimshaw, 337–48. New York: Oxford University Press.
@@ -19,6 +20,7 @@ Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicolog
 * ———. 2013. [*Playing with Sound: A Theory of Interacting with Sound and Music in Video Games*](https://www.amazon.com/Playing-Sound-Theory-Interacting-Music/dp/0262018675/). Cambridge, MA: The MIT Press.
 * ———, ed. 2008. [*From Pac-Man to Pop Music: Interactive Audio in Games and New Media*](https://www.amazon.com/Pac-Man-Pop-Music-Interactive-Ashgate-ebook/dp/B00AW99IFM/). Aldershot: Ashgate.
 * Cook, James. 2016. “Playing with the Past in the Imagined Middle Ages: Music and Soundscape in Video Game.” *Sounding Out!*, October 3. [https://soundstudiesblog.com/2016/10/03/playing-with-the-past-in-the-imagined-middle-ages-music-and-soundscape-in-video-game/](https://soundstudiesblog.com/2016/10/03/playing-with-the-past-in-the-imagined-middle-ages-music-and-soundscape-in-video-game/).
+* Crawford, Garry, Victoria K. Gosling, and Ben Light, eds. 2011. [*Online Gaming in Context: The Social and Cultural Significance of Online Games*](https://www.routledge.com/Online-Gaming-in-Context-The-social-and-cultural-significance-of-online/Crawford-Gosling-Light/p/book/9780415556194). London: Routledge.
 * Cremin, Colin. 2016. [*Exploring Videogames with Deleuze and Guattari*](https://www.amazon.com/Exploring-Videogames-Deleuze-Guattari-affective/dp/1138925535/). London: Routledge.
 * Donnelly, K. J., William Gibbons, and Neil Lerner, eds. 2014. [*Music in Video Games: Studying Play*](https://www.amazon.com/Music-Video-Games-Studying-Routledge/dp/041563444X/). New York: Routledge.
 * Dyer-Witheford, Nick, and Greig De Peuter. 2009. [*Games of Empire: Global Capitalism and Video Games*](https://www.amazon.com/Games-Empire-Capitalism-Electronic-Mediations/dp/0816666113). Minneapolis: University of Minnesota Press.
@@ -37,16 +39,19 @@ Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicolog
 * Munday, Rod. 2007. “Music in Video Games.” In [*Music, Sound and Multimedia: From the Live to the Virtual*](http://edinburgh.universitypressscholarship.com/view/10.3366/edinburgh/9780748625338.001.0001/upso-9780748625338), edited by Jamie Sexton , 51–67. Edinburgh: Edinburgh University Press.
 * Newman, James. 2008. [*Playing with Videogames*](https://www.amazon.com/Playing-Videogames-James-Newman/dp/0415385237/). London: Routledge.
 * ———. 2013. [*Videogames*](https://www.amazon.com/Videogames-James-Newman/dp/0415669162/). 2nd ed. London: Routledge. First published 2004.
+* Perron, Bernard, and Mark J. P. Wolf, eds. 2009. [*The Video Game Theory Reader 2*](http://www.tandfebooks.com/isbn/9780203887660). New York: Routledge.
 * Pulos, Alexis, and S. Austin Lee, eds. 2016. [*Transnational Contexts of Culture, Gender, Class, and Colonialism in Play: Video Games in East Asia*](http://www.springer.com/kr/book/9783319438160). New York: Palgrave Macmillan.
 * Schartmann, Andrew. 2013. [*Maestro Mario: How Nintendo Transformed Videogame Music into an Art*](https://www.amazon.com/Maestro-Mario-Andrew-Schartmann-ebook/dp/B00IB1XMZ0/). New York: Thought Catalog.
 * Sihvonen, Tanja. 2011. [*Players Unleashed! Modding “The Sims” and the Culture of Gaming*](https://www.amazon.com/Players-Unleashed-Amsterdam-University-MediaMatters/dp/9089642013). Amsterdam: Amsterdam University Press.
+* Smith, Jacob. 2015. [*Eco-Sonic Media*](https://www.amazon.com/Eco-Sonic-Media-Jacob-Smith/dp/0520286146/). Oakland: University of California Press.
 * Summers, Tim. 2011. “Playing the Tune: Video Game Music, Gamers and Genre.” *ACT—Zeitschrift für Musik & Performance* 2 (2). [http://www.act.uni-bayreuth.de/en/archiv/2011-02/04_Summers_Playing_the_Tune/index.html](http://www.act.uni-bayreuth.de/en/archiv/2011-02/04_Summers_Playing_the_Tune/index.html).
 * ———. 2016. [*Understanding Video Game Music*](https://www.amazon.com/Understanding-Video-Game-Music-Summers/dp/1107116872/). Cambridge: Cambridge University Press.
 * Thabet, Tamer. 2015. [*Video Game Narrative and Criticism: Playing the Story*](https://www.amazon.com/Video-Game-Narrative-Criticism-Playing/dp/1137525533/). New York: Palgrave Macmillan.
 * Tringham, Neal. 2015. [*Science Fiction Video Games*](https://www.amazon.com/Science-Fiction-Video-Games-Tringham/dp/148220388X/). Boca Raton, FL: CRC Press.
+* Vernallis, Carol. 2004. [*Experiencing Music Video Aesthetics and Cultural Context*](https://cup.columbia.edu/book/experiencing-music-video/9780231117982). New York: Columbia University Press.
 * Walkerdine, Valerie. 2007. [*Children, Gender, Video Games: Towards a Relational Approach to Multimedia*](https://www.amazon.com/Children-Gender-Video-Games-Relational/dp/0230584713/). London: Palgrave Macmillan.
 * Whalen, Zach. 2007. “Video Game Music: The Case of *Silent Hill*.” In [*Music, Sound and Multimedia: From the Live to the Virtual*](http://edinburgh.universitypressscholarship.com/view/10.3366/edinburgh/9780748625338.001.0001/upso-9780748625338), edited by Jamie Sexton, 68–81. Edinburgh: Edinburgh University Press.
+* Wierzbicki, James, ed. 2012. [*Music, Sound and Filmmakers: Sonic Style in Cinema*](https://www.routledge.com/Music-Sound-and-Filmmakers-Sonic-Style-in-Cinema/Wierzbicki/p/book/9780415898942). Routledge Music and Screen Media Series. New York: Routledge.
 * Wolf, Mark J. P., and Bernard Perron, eds. 2003. [*The Video Game Theory Reader*](http://www.tandfebooks.com/isbn/9780203700457). London: Routledge.
-* Wolf, Mark J. P., and Bernard Perron, eds. 2009. [*The Video Game Theory Reader 2*](http://www.tandfebooks.com/isbn/9780203887660). New York: Routledge.
 * Wolf, Mark J. P., and Bernard Perron, eds. 2014. [*The Routledge Companion to Video Game Studies*](https://www.routledge.com/The-Routledge-Companion-to-Video-Game-Studies/Wolf-Perron/p/book/9780415533324). New York: Routledge.
 * Wysocki, Matthew, and Evan W. Lauteria, eds. 2015. [*Rated M for Mature: Sex and Sexuality in Video Games*](https://www.amazon.com/Rated-Mature-Sexuality-Video-Games/dp/1628925779). New York: Bloomsbury Academic.
