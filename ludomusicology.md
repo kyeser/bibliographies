@@ -1,8 +1,8 @@
 # Ludomusicology
 
-Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicology.com).
+Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 
-(Last updated 13 August 2017)
+(Last updated 17 March 2020)
 
 * Austin, Michael, ed. 2016. [*Music Video Games: Performance, Politics, and Play*](https://www.amazon.com/Music-Video-Games-Performance-Approaches/dp/150130853X/). Afterword by William Cheng. New York: Bloomsbury Academic.
 * Bongiovanni, Pippin. 2017. “[8-bit Nostalgia and Hollywood Glamour: The Modern Autonomy of Video Game Audio](http://www.musicologyresearch.co.uk/publications/pippinbongiovanni-8-bitnostalgiaandhollywoodglamour).” *Musicology Research*, no. 2, 159–81.
@@ -24,15 +24,19 @@ Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicolog
 * Cremin, Colin. 2016. [*Exploring Videogames with Deleuze and Guattari*](https://www.amazon.com/Exploring-Videogames-Deleuze-Guattari-affective/dp/1138925535/). London: Routledge.
 * Donnelly, K. J., William Gibbons, and Neil Lerner, eds. 2014. [*Music in Video Games: Studying Play*](https://www.amazon.com/Music-Video-Games-Studying-Routledge/dp/041563444X/). New York: Routledge.
 * Dyer-Witheford, Nick, and Greig De Peuter. 2009. [*Games of Empire: Global Capitalism and Video Games*](https://www.amazon.com/Games-Empire-Capitalism-Electronic-Mediations/dp/0816666113). Minneapolis: University of Minnesota Press.
+* Gibbons, William. 2018. [*Unlimited Replays: Video Games and Classical Music*](https://www.amazon.com/Unlimited-Replays-Video-Classical-Oxford/dp/0190265264/). New York: Oxford University Press.
+* Gibbons, William, and Steven Reale, eds. 2020. [*Music in the Role-Playing Game: Heroes & Harmonies*](https://www.amazon.com/Music-Role-Playing-Game-Harmonies-Routledge/dp/0815369042/). New York: Routledge.
 * Goggin, Joyce. 2011. “[Playbour, Farming and Leisure](http://www.ephemerajournal.org/contribution/playbour-farming-and-labour).” *Ephemera: Theory & Politics in Organization* 11 (4): 357–68.
 * Greene, Liz, and Danijela Kulezic-Wilson, eds. 2016. [*The Palgrave Handbook of Sound Design and Music in Screen Media: Integrated Soundtracks*](https://www.amazon.com/Palgrave-Handbook-Sound-Design-Screen/dp/1137516798/). London: Palgrave Macmillan.
 * Gunter, Barrie. 2016. [*Does Playing Video Games Make Players More Violent?*](https://www.amazon.com/Playing-Video-Games-Players-Violent/dp/1137579846/) London: Palgrave Macmillan.
 * Happ, Christian, and André Melzer. 2014. [*Empathy and Violent Video Games Aggression and Prosocial Behavior*](http://www.palgrave.com/br/book/9781137440129). New York: Palgrave Macmillan.
+* Ivănescu, Andra. 2019. [*Popular Music in the Nostalgia Video Game: The Way It Never Sounded*](https://www.amazon.com/Popular-Music-Nostalgia-Video-Game/dp/3030042804/). Cham: Palgrave Macmillan.
 * Jørgensen, Kristine. 2009. [*A Comprehensive Study of Sound in Video Games: How it Affects Player Action*](http://mellenpress.com/book/Comprehensive-Study-of-Sound-in-Computer-Games-How-Audio-Affects-Player-Action/7897/). New York: Edwin Mellen.
 * Kamp, Michiel, Tim Summers, and Mark Sweeney, eds. 2016. [*Ludomusicology: Approaches to Video Game Music*](https://www.equinoxpub.com/home/ludomusicology/). Sheffield: Equinox.
 * Lipscomb, Scott D., and Sean M. Zehnder. 2004. “[Immersion in the Virtual Environment: The Effect of a Musical Score on the Video Gaming Experience](http://doi.org/10.2114/jpa.23.337).” *Journal of Physiological Anthropology and Human Applied Science* 23 (6): 337–43.
 * Mäyrä, Frans. 2008. [*An Introduction to Game Studies*](https://www.amazon.com/Introduction-Game-Studies-Frans-Mayra/dp/141293446X/). London: SAGE.
 * Miller, Kiri. 2012. [*Playing Along: Digital Games, YouTube, and Virtual Performance*](https://www.amazon.com/Playing-Along-Digital-YouTube-Performance/dp/0199753466/). New York: Oxford University Press.
+* Moormann, Peter, ed. 2013. [*Music and Game: Perspectives on a Popular Alliance*](https://www.amazon.com/Music-Game-Perspectives-Popular-Alliance/dp/3531174096/). Wiesbaden: Springer.
 * Moseley, Roger. 2013a. “Digital Analogies: Techniques of Sonic Play.” *Sounding Out!*, November 4. [https://soundstudiesblog.com/2013/11/04/digital-analogies-techniques-of-sonic-play/](https://soundstudiesblog.com/2013/11/04/digital-analogies-techniques-of-sonic-play/).
 * ———. 2013b. “Playing Games with Music (and Vice Versa): Ludomusicological Perspectives on Guitar Hero and Rock Band.” In [*Taking It to the Bridge: Music as Performance*](https://www.amazon.com/Taking-Bridge-Music-as-Performance/dp/0472051776/), edited by Nicholas Cook and Richard Pettengill, 279–318. Ann Arbor: The University of Michigan Press.
 * ———. 2016. [*Keys to Play: Music as a Ludic Medium from Apollo to Nintendo*](https://doi.org/10.1525/luminos.16). Oakland: University of California Press.
