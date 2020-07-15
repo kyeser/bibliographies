@@ -1,4 +1,4 @@
-# Ludomusicology
+# Game Music Studies
 
 Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 
