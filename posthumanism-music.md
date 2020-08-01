@@ -17,6 +17,7 @@ Compiled by Hee Seng Kye at [Undoing Musicology](http://undoingmusicology.com).
 * Evans, Claire L. 2014. “The Sound of (Posthuman) Music.” *Vice*, May 15, 2014. https://www.vice.com/en_us/article/epgbz4/projekt-melody-hentai-anime-camgirl-chaturbate.
 * Hauskeller, Michael, Thomas D. Philbeck, and Curtis D. Carbonell, eds. 2015. *‌The Palgrave Handbook of Posthumanism in Film and Television*. Houndmills, Basingstoke, Hampshire: Palgrave Macmillan.
 * Hayles, N. Katherine. 1999. *How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics*. Chicago: The University of Chicago Press.
+* Kramer, Lawrence. 2013. “Classical Music for the Posthuman Condition.” In *The Oxford Handbook of New Audiovisual Aesthetics*, edited by John Richardson, Claudia Gorbman, and Carol Vernallis, 39–52.
 * Lillvis, Kristen. 2017. *Posthuman Blackness and the Black Female Imagination*. Athens: University of Georgia Press.
 * McFarlane, Anna, Graham J. Murphy, and Lars Schmeink, eds. 2020. *The Routledge Companion to Cyberpunk Culture*. New York: Routledge. [See chap. 29 “Music” by Nicholas C. Laudadio; chap. 33 “Posthumanism(s)” by Julia Grillmayr.]
 * Ploeger, Daniël. 2011. “Sonic Prosthetics: Exploring Posthuman Personal Space in Digital Performance.” *International Journal of Performance Arts and Digital Media* 7 (2): 155–69.
