@@ -10,6 +10,7 @@ Compiled by Hee Seng Kye at [Undoing Musicology](http://undoingmusicology.com).
 * Braidotti, Rosi. 2013. *The Posthuman*. Cambridge: Polity.
 * Braidotti, Rosi, and Maria Hlavajova, eds. 2018. *Posthuman Glossary*. London: Bloomsbury.
 * Brown, Steven T. 2010. *Tokyo Cyberpunk: Posthumanism in Japanese Visual Culture*. New York: Palgrave Macmillan.
+* Burton, Justin Adams. 2017. *Posthuman Rap*. New York: Oxford University Press.
 * Cecchetto, David. 2011. “Deconstructing Affect: Posthumanism and Mark Hansen’s Media Theory.” *Theory, Culture & Society* 28 (5): 3–33.
 * ———. 2013. *‌Humanesis: Sound and Technological Posthumanism*. Minneapolis: University of Minnesota Press.
 * Cimini, Amy M. 2015. “Posthuman Sounds.” *Sound Studies* 1 (1): 180–83.
