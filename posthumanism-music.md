@@ -2,7 +2,7 @@
 
 Compiled by Hee Seng Kye at [Undoing Musicology](http://undoingmusicology.com).
 
-(Last updated 1 August 2020)
+(Last updated 4 August 2020)
 
 * Åsberg, Cecilia, and Rosi Braidotti, eds. 2018. *A Feminist Companion to the Posthumanities*. Cham: Springer.
 * Auner, Joseph. 2003. “‘Sing It for Me’: Posthuman Ventriloquism in Recent Popular Music.” *Journal of the Royal Musical Association* 128 (1): 98–122.
@@ -16,6 +16,7 @@ Compiled by Hee Seng Kye at [Undoing Musicology](http://undoingmusicology.com).
 * Cimini, Amy M. 2015. “Posthuman Sounds.” *Sound Studies* 1 (1): 180–83.
 * Clendinning, Jane Piper. 2019. “Electronically Modified Voices as Expressing the (Post)Human Condition in Daft Punk’s *Random Access Memories* (2013).” In *The Routledge Companion to Popular Music Analysis: Expanding Approaches*, edited by Ciro Scotto, Kenneth Smith, and John Brackett, 159–76. New York: Routledge.
 * Evans, Claire L. 2014. “The Sound of (Posthuman) Music.” *Vice*, May 15, 2014. https://www.vice.com/en_us/article/epgbz4/projekt-melody-hentai-anime-camgirl-chaturbate.
+* Haraway, Donna J. 1991. *Simians, Cyborgs, and Women: The Reinvention of Nature*. New York: Routledge.
 * Hauskeller, Michael, Thomas D. Philbeck, and Curtis D. Carbonell, eds. 2015. *‌The Palgrave Handbook of Posthumanism in Film and Television*. Houndmills, Basingstoke, Hampshire: Palgrave Macmillan.
 * Hayles, N. Katherine. 1999. *How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics*. Chicago: The University of Chicago Press.
 * Kramer, Lawrence. 2013. “Classical Music for the Posthuman Condition.” In *The Oxford Handbook of New Audiovisual Aesthetics*, edited by John Richardson, Claudia Gorbman, and Carol Vernallis, 39–52.
