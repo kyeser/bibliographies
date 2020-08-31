@@ -1,8 +1,8 @@
 # COVID-19 (and Music)
 
-Compiled by Hee Seng Kye at [Undoing Musicology](http://undoingmusicology.com).
+Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 
-(Last updated 19 August 2020)
+(Last updated 31 August 2020)
 
 * Allen, David. 2020. “[Does the Pressure of a Pandemic Transform a Cellist’s Bach?](https://www.nytimes.com/2020/04/20/arts/music/alisa-weilerstein-bach-coronavirus.html)” *The New York Times*, April 20, 2020.
 * Ashanti, Kahlil. 2020. “[How to Get Audiences to Pay More for Streamed Content](https://www.artsprofessional.co.uk/magazine/article/how-get-audiences-pay-more-streamed-content).” *ArtsProfessional*, July 22, 2020.
@@ -13,6 +13,7 @@ Compiled by Hee Seng Kye at [Undoing Musicology](http://undoingmusicology.com).
 * Brodeur, Michael Andor. 2020. “[Copyright Bots and Classical Musicians Are Fighting Online. The Bots Are Winning](https://www.washingtonpost.com/entertainment/music/copyright-bots-and-classical-musicians-are-fighting-online-the-bots-are-winning/2020/05/20/a11e349c-98ae-11ea-89fd-28fb313d1886_story.html).” *The Washington Post*, May 21, 2020.
 * Bui, Quoctrung, and Emily Badger. 2020. “[The Coronavirus Quieted City Noise. Listen to What’s Left](https://www.nytimes.com/interactive/2020/05/22/upshot/coronavirus-quiet-city-noise.html).” *The New York Times*, May 22, 2020.
 * CBC News. 2020. “[‘The situation is grim’: Toronto Concert Venues Look to Government Funding for Survival](https://www.cbc.ca/news/canada/toronto/canadian-concert-venues-risk-permanent-shut-down-1.5663655).” *CBC News*, July 27, 2020.
+* Chan, Melissa. 2020. “[Symphonies Silenced, Sonatas Streamed: The State of Classical Music During COVID-19](https://lareviewofbooks.org/article/symphonies-silenced-sonatas-streamed-the-state-of-classical-music-during-covid-19/).” *Los Angeles Review of Books*, April 27, 2020.
 * Chiasson, Dan. 2020. “[The Pandemic Is Remaking What Performance Can Be](https://www.newyorker.com/culture/culture-desk/the-pandemic-is-remaking-what-performance-can-be).” *The New Yorker*, March 16, 2020.
 * Chiu, Remi. 2020. “[Music under Quarantine: Two Views from Milan, 1576 and 2020](https://www.areditions.com/news/music-under-quarantine/).” *UnderScore*, April 6, 2020.
 * Colbert, Maile. 2020. “[Sonic (Dys)tonic: Kim Munro, Peta Murray, and Stayci Taylor](https://sonicfield.org/2020/07/sonic-dystonic-kim-munro-peta-murray-and-stayci-taylor/).” *Sonic Field*, July 24, 2020.
