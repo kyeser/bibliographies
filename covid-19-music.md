@@ -2,15 +2,18 @@
 
 Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 
-(Last updated 31 August 2020)
+(Last updated 21 September 2020)
 
 * Allen, David. 2020. “[Does the Pressure of a Pandemic Transform a Cellist’s Bach?](https://www.nytimes.com/2020/04/20/arts/music/alisa-weilerstein-bach-coronavirus.html)” *The New York Times*, April 20, 2020.
+* Anon. 2020. “[Performers Will Hear Live Audience Listening](https://www.classical-scene.com/2020/09/15/performers-hear-audience/).” *The Boston Musical Intelligencer*, September 15, 2020.
 * Ashanti, Kahlil. 2020. “[How to Get Audiences to Pay More for Streamed Content](https://www.artsprofessional.co.uk/magazine/article/how-get-audiences-pay-more-streamed-content).” *ArtsProfessional*, July 22, 2020.
 * Baker, Peter C. 2020. “[Making a Supercut of the Sounds of Quarantine](https://www.newyorker.com/culture/cultural-comment/making-a-supercut-of-the-sounds-of-quarantine).” *The New Yorker*, May 4, 2020.
 * Barone, Joshua. 2020. “[The Coronavirus Hasn’t Slowed Classical Music](https://www.nytimes.com/2020/03/31/arts/music/classical-music-streaming-coronavirus.html).” *The New York Times*, March 31, 2020.
 * ———. 2020. “[For Classical Music, Spring Was the Season of Solos](https://www.nytimes.com/2020/06/18/arts/music/classical-music-season-of-solos.html).” *The New York Times*, June 18, 2020.
+* Bay-Cheng, Sarah. 2020. “[What the Performing Arts Can Learn From the NBA’s Bubble Games](https://www.ludwig-van.com/toronto/2020/09/18/opinion-what-the-performing-arts-can-learn-from-the-nbas-bubble-games/).” *Ludwig Van*, September 18, 2020.
 * Betts, Richard. 2020. “[Streaming in C Minor: How Classical Music Survived Covid-19](https://thespinoff.co.nz/music/30-06-2020/streaming-in-c-minor-how-classical-music-survived-covid-19/).” *The Spinoff*, June 30, 2020.
 * Brodeur, Michael Andor. 2020. “[Copyright Bots and Classical Musicians Are Fighting Online. The Bots Are Winning](https://www.washingtonpost.com/entertainment/music/copyright-bots-and-classical-musicians-are-fighting-online-the-bots-are-winning/2020/05/20/a11e349c-98ae-11ea-89fd-28fb313d1886_story.html).” *The Washington Post*, May 21, 2020.
+* ———. 2020. “[I Miss Live Performances, But What I Really Miss Is Applause](https://www.washingtonpost.com/entertainment/music/i-miss-live-performances-but-what-i-really-miss-is-applause/2020/08/26/ed8d746c-ddb1-11ea-809e-b8be57ba616e_story.html).” *The Washington Post*, August 27, 2020.
 * Bui, Quoctrung, and Emily Badger. 2020. “[The Coronavirus Quieted City Noise. Listen to What’s Left](https://www.nytimes.com/interactive/2020/05/22/upshot/coronavirus-quiet-city-noise.html).” *The New York Times*, May 22, 2020.
 * CBC News. 2020. “[‘The situation is grim’: Toronto Concert Venues Look to Government Funding for Survival](https://www.cbc.ca/news/canada/toronto/canadian-concert-venues-risk-permanent-shut-down-1.5663655).” *CBC News*, July 27, 2020.
 * Chan, Melissa. 2020. “[Symphonies Silenced, Sonatas Streamed: The State of Classical Music During COVID-19](https://lareviewofbooks.org/article/symphonies-silenced-sonatas-streamed-the-state-of-classical-music-during-covid-19/).” *Los Angeles Review of Books*, April 27, 2020.
@@ -28,7 +31,12 @@ Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 * Grabar, Henry. 2020. “[How Long Can New Orleans Survive Without Live Music?](https://slate.com/technology/2020/07/new-orleans-covid-pandemic-live-music.html)” *Slate*, July 24, 2020.
 * Grella, George. “[American Freelance Musicians on Surviving the Pandemic](https://van-us.atavist.com/how-to-eat).” *VAN*, July 30, 2020.
 * Hansen, Niels Chr., and Melanie Wald-Fuhrmann. 2020. “[Musicovid: An International Research Network](https://www.aesthetics.mpg.de/en/research/department-of-music/music-in-times-of-covid-19.html).” Max-Planck-Institut für empirische Ästhetik.
+* Herrington, Nicole. 2020. “[This Labor Day, These Workers Are Trying to Stay Afloat](https://www.nytimes.com/2020/09/04/arts/labor-day-workers-arts-coronavirus.html).” *The New York Times*, September 4, 2020.
+* Hess, Amanda. 2020. “[The Shows Must Go On. But They Aren’t the Same Without You](https://www.nytimes.com/2020/09/04/arts/TV-shows-sports-audiences.html).” *The New York Times*, September 4, 2020; updated September 5, 2020.
+* Hickley, Catherine. 2020. “[A 639-Year Concert, With No Intermission for Coronavirus](https://www.nytimes.com/2020/09/07/arts/music/john-cage-as-slow-as-possible-germany.html).” *The New York Times*, September 7, 2020.
+* Hsu, Hua. 2020. “[How Can We Pay for Creativity in the Digital Age?](https://www.newyorker.com/magazine/2020/09/14/how-can-we-pay-for-creativity-in-the-digital-age)” *The New Yorker*, September 7, 2020.
 * Iuchi, Chiho. 2020. “[Orchestrating a COVID-19 Stopgap for Classical Concerts](https://www.japantimes.co.jp/culture/2020/04/10/music/orchestrating-covid-19-stopgap-classical-concerts/).” *The Japan Times*, April 10, 2020.
+* Jeffries, Stuart. 2020. “[Orchestral Manoeuvres in a Car Park: Does ENO’s Drive-in Opera Hit the High Notes?](https://www.theguardian.com/music/2020/sep/20/does-drive-in-opera-hit-high-notes-english-national-opera-la-boheme-alexandra-palace)” *The Guardian*, September 20, 2020.
 * Jones, Josh. 2020. “[The Strange Costumes of the Plague Doctors Who Treated 17th Century Victims of the Bubonic Plague](http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html).” *Open Culture*, August 11, 2020.
 * Keller, Peter. 2020. “[There Is No Easy Path Out of Coronavirus for Live Classical Music](https://theconversation.com/there-is-no-easy-path-out-of-coronavirus-for-live-classical-music-138207).” *The Conversation*, June 5, 2020.
 * Khullar, Dhruv. 2020. “[‘A Disembodied Voice’: The Loneliness and Solidarity of Treating the Coronavirus in New York](https://www.newyorker.com/science/medical-dispatch/a-disembodied-voice-the-loneliness-and-solidarity-of-treating-the-coronavirus-in-new-york).” *The New Yorker*, April 8, 2020.
@@ -41,6 +49,7 @@ Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 * Lyman, David. 2020. “[Music Teaching in the Time of Coronavirus](https://moversmakers.org/2020/07/10/music-teaching-in-the-time-of-coronavirus/).” *Movers & Makers Magazine*, July 10, 2020.
 * Mazelis, Fred. 2020. “[Classical Musicians Discuss the Impact of the COVID-19 Pandemic](https://www.wsws.org/en/articles/2020/05/06/musi-m06.html).” *World Socialist Web Site*, May 6, 2020.
 * Miller, Ben. 2020. “[Opera Goes On in Salzburg, With Lots and Lots of Testing](https://www.nytimes.com/2020/07/31/arts/music/salzburg-festival-coronavirus-cosi.html).” *The New York Times*, July 31, 2020.
+* O’Donovan, Heather. 2020. “[Commanding Conservatories in the Time of COVID-19: How 9 Music Schools Are Adapting as They Reopen This Fall](https://www.wqxr.org/story/conservatories-covid19-music-schools-reopen-fall/).” *WQXR*, September 19, 2020.
 * Oltermann, Philip. 2020. “[German Coronavirus Experiment Enlists Help of Concertgoers](https://www.theguardian.com/world/2020/jul/20/german-coronavirus-experiment-enlists-help-concertgoers-tim-bendzko).” *The Guardian*, July 20, 2020.
 * Pareles, Jon. 2020. “[10 Best Quarantine Concerts Online](https://www.nytimes.com/2020/07/21/arts/music/best-quarantine-concerts-livestream.html).” *The New York Times*, July 21, 2020.
 * ———. 2020. “[Intimacy Is Overrated: Concerts in the Livestream Era](https://www.nytimes.com/2020/07/21/arts/music/livestreams-intimacy.html).” *The New York Times*, July 21, 2020.
@@ -55,6 +64,7 @@ Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 * ———. 2020. “[Musicians and Composers Respond to a Chaotic Moment](https://www.newyorker.com/magazine/2020/07/06/musicians-and-composers-respond-to-a-chaotic-moment).” *The New Yorker*, June 29, 2020.
 * Schäfer, Ulrike. 2020. “[What It’s Like, Playing to an Empty Hall](https://slippedisc.com/2020/03/what-its-like-playing-to-an-empty-hall/).” *Slipped Disc*, March 14, 2020.
 * Shpigel, Ben. 2020. “[The Red Sox Organist Is Providing All the Baseball You Need Right Now](https://www.nytimes.com/2020/06/20/sports/baseball/coronavirus-red-sox-organist.html).” *The New York Times*, June 20, 2020.
+* Sisario, Ben, and Giovanni Russonello. 2020. “[Jazz Lives in Clubs. The Pandemic Is Threatening Its Future](https://www.nytimes.com/2020/09/08/arts/music/jazz-clubs-coronavirus.html).” *The New York Times*, September 8, 2020.
 * St. Michel, Patrick. 2020. “[Live Music Needs Structural Change to Survive COVID-19](https://www.japantimes.co.jp/culture/2020/05/08/music/live-music-covid-19/).” *The Japan Times*, May 8, 2020.
 * Stearns, David Patrick. 2020. “[The Ever-Changing World of Classical Performance: How Our New Reality Might Shape What We Hear](https://www.wqxr.org/story/ever-changing-world-classical-performance-how-our-new-reality-might-shape-what-we-hear/).” *WQXR Blog*, August 6, 2020.
 * Strub, Spencer. 2020. “[Illness & Crisis, from Medieval Plague Tracts to Covid-19](https://www.nybooks.com/daily/2020/03/25/illness-and-crisis-from-medieval-plague-tracts-to-covid-19/).” *The New York Review of Books*, March 25, 2020.
@@ -62,8 +72,13 @@ Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 * Taladrid, Stephania. 2020. “[Meet the Italians Making Music Together Under Coronavirus Quarantine](https://www.newyorker.com/culture/video-dept/the-italians-making-music-on-balconies-under-coronavirus-quarantine).” *The New Yorker*, March 19, 2020.
 * Tommasini, Anthony. 2020. “[In a Pandemic, Musicians Play in Empty Halls for Audiences Online](https://www.nytimes.com/2020/03/13/arts/music/coronavirus-pandemic-music-streaming.html).” *The New York Times*, March 13, 2020.
 * ———. 2020. “[Classical Music Attracts Older Audiences. Good](https://www.nytimes.com/2020/08/06/arts/music/classical-music-opera-older-audiences.html).” *The New York Times*, August 6, 2020.
+* ———. 2020. “[Over Headphones and in a Truck, the Philharmonic Stays Alive](https://www.nytimes.com/2020/09/14/arts/music/new-york-philharmonic.html).” *The New York Times*, September 14, 2020; updated September 16, 2020.
 * Vincent, Michael. 2020. “[Commentary: 12 Ways the Pandemic Will Change Classical Music](https://www.ludwig-van.com/toronto/2020/07/22/commentary-12-ways-pandemic-will-change-classical-music/).” *Ludwig Van*, July 22, 2020.
+* ———. 2020. “[Toronto Symphony Announces New Drive-in Concert Series](https://www.ludwig-van.com/toronto/2020/09/17/scoop-toronto-symphony-announces-new-drive-concert-series/).” *Ludwig Van*, September 17, 2020.
+* Wassenberg, Anya. 2020. “[Will You Ever Feel Comfortable Going to a Concert Again?](https://www.ludwig-van.com/toronto/2020/05/27/feature-will-you-ever-feel-conformable-going-to-a-concert-again/)” *Ludwig Van*, May 27, 2020.
 * Wenzel, John. 2020. “[The Summer of No Music: Loss of Concerts Makes Denver Question Its Cultural Identity](https://theknow.denverpost.com/2020/08/10/denver-concerts-coronavirus-music-scene/242453/).” *The Denver Post*, August 10, 2020.
+* Wicker, Tom. 2020. “[Rise of Digital: How Streaming Filled the Live Performance Gap](https://www.thestage.co.uk/long-reads/rise-of-digital-how-streaming-filled-the-live-performance-gap).” *The Stage*, September 9, 2020.
+* Williams, Alex. 2020. “[Guitars Are Back, Baby: Women and Gen Z Fuel Record Sales During Pandemic](https://www.nytimes.com/2020/09/08/style/guitar-sales-fender-gibson.html).” *The New York Times*, September 8, 2020.
 * Williams, Kathryn, and Jodie Underhill. 2020. “[ISM Global Literature Review: Music Performance, Education and COVID-19](https://www.ism.org/images/files/ISM-Literature-Review_July-2020_online-FINAL.pdf).” *Incorporated Society of Musicians*, July 2020.
 * Willson, Flora. 2020. “[Doorstep Recitals and Bespoke Gigs: How Classical Music is Adapting to the New Normal](https://www.theguardian.com/music/2020/aug/06/doorstep-recitals-and-live-jukeboxes-how-classical-music-is-adapting-to-the-new-normal).” *The Guardian*, August 6, 2020.
 * Zoladz, Lindsay. 2020. “[Learning to Listen to, and Beyond, the Siren’s Call](https://www.nytimes.com/2020/04/05/arts/music/coronavirus-sirens-music.html).” *The New York Times*, April 5, 2020.
