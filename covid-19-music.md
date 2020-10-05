@@ -2,7 +2,7 @@
 
 Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 
-(Last updated 21 September 2020)
+(Last updated 5 October 2020)
 
 * Allen, David. 2020. “[Does the Pressure of a Pandemic Transform a Cellist’s Bach?](https://www.nytimes.com/2020/04/20/arts/music/alisa-weilerstein-bach-coronavirus.html)” *The New York Times*, April 20, 2020.
 * Anon. 2020. “[Performers Will Hear Live Audience Listening](https://www.classical-scene.com/2020/09/15/performers-hear-audience/).” *The Boston Musical Intelligencer*, September 15, 2020.
@@ -11,6 +11,7 @@ Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 * Barone, Joshua. 2020. “[The Coronavirus Hasn’t Slowed Classical Music](https://www.nytimes.com/2020/03/31/arts/music/classical-music-streaming-coronavirus.html).” *The New York Times*, March 31, 2020.
 * ———. 2020. “[For Classical Music, Spring Was the Season of Solos](https://www.nytimes.com/2020/06/18/arts/music/classical-music-season-of-solos.html).” *The New York Times*, June 18, 2020.
 * Bay-Cheng, Sarah. 2020. “[What the Performing Arts Can Learn From the NBA’s Bubble Games](https://www.ludwig-van.com/toronto/2020/09/18/opinion-what-the-performing-arts-can-learn-from-the-nbas-bubble-games/).” *Ludwig Van*, September 18, 2020.
+* Beaumont-Thomas, Ben. 2020. “[Third of British Musicians May Quit Industry Amid Pandemic](https://www.theguardian.com/music/2020/sep/22/one-third-british-musicians-may-quit-industry-covid-pandemic-dcms-treasury).” *The Guardian*, September 22, 2020.
 * Betts, Richard. 2020. “[Streaming in C Minor: How Classical Music Survived Covid-19](https://thespinoff.co.nz/music/30-06-2020/streaming-in-c-minor-how-classical-music-survived-covid-19/).” *The Spinoff*, June 30, 2020.
 * Brodeur, Michael Andor. 2020. “[Copyright Bots and Classical Musicians Are Fighting Online. The Bots Are Winning](https://www.washingtonpost.com/entertainment/music/copyright-bots-and-classical-musicians-are-fighting-online-the-bots-are-winning/2020/05/20/a11e349c-98ae-11ea-89fd-28fb313d1886_story.html).” *The Washington Post*, May 21, 2020.
 * ———. 2020. “[I Miss Live Performances, But What I Really Miss Is Applause](https://www.washingtonpost.com/entertainment/music/i-miss-live-performances-but-what-i-really-miss-is-applause/2020/08/26/ed8d746c-ddb1-11ea-809e-b8be57ba616e_story.html).” *The Washington Post*, August 27, 2020.
@@ -23,11 +24,13 @@ Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 * Da Fonseca-Wollheim, Corinna. 2020. “[Concerts Disappeared. Piano Sales Survived](https://www.nytimes.com/2020/06/29/arts/music/piano-sales-coronavirus.html).” *The New York Times*, June 29, 2020.
 * Dalley, Jan. 2020. “[Does Live Performance Really Matter?](https://www.ft.com/content/95921d0a-48e3-478b-9885-375d08653e10)” *Financial Times*, August 3, 2020.
 * Easter, Makeda. 2020. “[Here’s Why COVID-19 Has Made Arts Education So Problematic](https://www.latimes.com/entertainment-arts/story/2020-07-20/covid-art-school-students-university-online-classes-fall-2020).” *‌Los Angeles Times*, July 20, 2020.
+* Eiseman, Lee. 2020. “[BSO Players and Management To Share Future Pain](https://www.classical-scene.com/2020/09/11/share-future-pain/).” *The Boston Musical Intelligencer*, September 11, 2020.
 * Elie, Paul. 2020. “[(Against) Virus as Metaphor](https://www.newyorker.com/news/daily-comment/against-the-coronavirus-as-metaphor).” *The New Yorker*, March 19, 2020.
 * Fleshner, Nathan. 2020. “[COVID-19: A Perspective for the Arts and Humanities](https://thepolyphony.org/2020/03/18/covid-19-a-perspective-for-the-arts-and-humanities/).” *The Polyphony*, March 18, 2020.
 * Finkelstein, Zach. 2020. “[COVID-19 and the Hidden Consequences of ‘Force Majeure’](https://www.middleclassartist.com/post/covid-19-and-the-hidden-consequences-of-force-majeure).” *The Middleclass Artist*, March 3, 2020.
 * ———. 2020. “[The New Heroes of COVID-19: 179 Organizations Who Paid Artists and Counting...](https://www.middleclassartist.com/post/the-new-heroes-of-covid-19-179-organizations-who-paid-artists-and-counting)” *The Middleclass Artist*, April 9, 2020.
 * Gelb, Peter. 2020. “[Would Mozart Have Performed for You on Zoom?](https://www.nytimes.com/2020/04/01/opinion/covid-arts-livestream-audiences.html)” *The New York Times*, April 1, 2020.
+* Gereben, Janos. 2020. “[San Francisco Symphony, Opera Musicians Settle Contracts](https://www.sfexaminer.com/entertainment/san-francisco-symphony-opera-musicians-settle-contracts/).” *‌The San Francisco Examiner*, September 20, 2020.
 * Grabar, Henry. 2020. “[How Long Can New Orleans Survive Without Live Music?](https://slate.com/technology/2020/07/new-orleans-covid-pandemic-live-music.html)” *Slate*, July 24, 2020.
 * Grella, George. “[American Freelance Musicians on Surviving the Pandemic](https://van-us.atavist.com/how-to-eat).” *VAN*, July 30, 2020.
 * Hansen, Niels Chr., and Melanie Wald-Fuhrmann. 2020. “[Musicovid: An International Research Network](https://www.aesthetics.mpg.de/en/research/department-of-music/music-in-times-of-covid-19.html).” Max-Planck-Institut für empirische Ästhetik.
