@@ -2,7 +2,7 @@
 
 Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 
-(Last updated 6 October 2020)
+(Last updated 13 October 2020)
 
 * Allen, David. 2020. “[Does the Pressure of a Pandemic Transform a Cellist’s Bach?](https://www.nytimes.com/2020/04/20/arts/music/alisa-weilerstein-bach-coronavirus.html)” *The New York Times*, April 20, 2020.
 * Anon. 2020. “[Performers Will Hear Live Audience Listening](https://www.classical-scene.com/2020/09/15/performers-hear-audience/).” *The Boston Musical Intelligencer*, September 15, 2020.
@@ -61,10 +61,12 @@ Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 * Pareles, Jon. 2020a. “[10 Best Quarantine Concerts Online](https://www.nytimes.com/2020/07/21/arts/music/best-quarantine-concerts-livestream.html).” *The New York Times*, July 21, 2020.
 * ———. 2020b. “[Intimacy Is Overrated: Concerts in the Livestream Era](https://www.nytimes.com/2020/07/21/arts/music/livestreams-intimacy.html).” *The New York Times*, July 21, 2020.
 * Paulson, Michael, Elizabeth A. Harris, and Graham Bowley. 2020. “[New York’s Arts Shutdown: The Economic Crisis in One Lost Weekend](https://www.nytimes.com/interactive/2020/09/24/arts/new-york-fall-arts-economy.html).” Photographs by Dina Litovsky, Victor Llorente, and Daniel Arnold. *The New York Times*, September 23, 2020.
+* Redmond, Adele. 2020. “[Audiences Will Pay for ‘Live Digital’ Events, Survey Suggests](https://www.artsprofessional.co.uk/news/audiences-will-pay-live-digital-events-survey-suggests).” *ArtsProfessional*, September 22, 2020.
 * Renihan, Colleen, Ben Schnitzer, and Julia Brook. 2020. “[Support for Artists Is Key to Returning to Vibrant Cultural Life Post-Coronavirus](https://theconversation.com/support-for-artists-is-key-to-returning-to-vibrant-cultural-life-post-coronavirus-138048).” *The Conversation*, June 24, 2020.
 * Reynolds, Jeremy. 2020a. “[Can Music Boost Your Immune System?](https://www.post-gazette.com/ae/music/2020/04/20/immune-system-music-therapy-health-benefit-study-mind-body-COVID-19/stories/202004150125)” *Pittsburgh Post-Gazette*, April 20, 2020.
 * ———. 2020b. “[Arts Groups Leaped Online During the Pandemic. Who Tuned In?](https://www.post-gazette.com/ae/music/2020/07/13/Arts-digital-stream-viewers-Pittsburgh-symphony-opera-ballet-concert-free-covid-19/stories/202007100121).” *Pittsburgh Post-Gazette*, July 13, 2020.
-* Roberts, Randall. 2020. “[The Anti-Spotify: How Online Music Company Bandcamp Became the Toast of the COVID Age](https://www.latimes.com/entertainment-arts/music/story/2020-09-22/bandcamp-anti-spotify-streaming).” *Los Angeles Times*, September 22, 2020.
+* Roberts, Randall. 2020a. “[The Anti-Spotify: How Online Music Company Bandcamp Became the Toast of the COVID Age](https://www.latimes.com/entertainment-arts/music/story/2020-09-22/bandcamp-anti-spotify-streaming).” *Los Angeles Times*, September 22, 2020.
+* ———. 2020b. “[How Bandcamp Became the Anti-Spotify During the COVID Age](https://www.latimes.com/entertainment-arts/music/story/2020-09-22/bandcamp-anti-spotify-streaming).” *Los Angeles Times*, September 22, 2020.
 * Robin, William. 2020. “[The 1918 Pandemic’s Impact on Music? Surprisingly Little](https://www.nytimes.com/2020/05/06/arts/music/1918-flu-pandemic-coronavirus-classical-music.html).” *The New York Times*, May 6, 2020.
 * Rohde, David. 2020. “[Classical Music’s Opportune Moment](https://www.wsj.com/articles/classical-musics-opportune-moment-11592944760).” *The Wall Street Journal*, June 23, 2020.
 * Rosen, Jody. 2020. “[The Eerie Sound of Sports Without Fans](https://www.nytimes.com/2020/06/04/magazine/the-eerie-sound-of-sports-without-fans.html).” *The New York Times*, June 4, 2020.
@@ -80,9 +82,12 @@ Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 * Strub, Spencer. 2020. “[Illness & Crisis, from Medieval Plague Tracts to Covid-19](https://www.nybooks.com/daily/2020/03/25/illness-and-crisis-from-medieval-plague-tracts-to-covid-19/).” *The New York Review of Books*, March 25, 2020.
 * Swed, Mark. 2020. “[Can Artists Find a Silver Lining in the Cloud of COVID-19? Peter Sellars Is Looking](https://www.latimes.com/entertainment-arts/story/2020-04-11/coronavirus-pandemic-peter-sellars).” *‌Los Angeles Times*, April 11, 2020.
 * Taladrid, Stephania. 2020. “[Meet the Italians Making Music Together Under Coronavirus Quarantine](https://www.newyorker.com/culture/video-dept/the-italians-making-music-on-balconies-under-coronavirus-quarantine).” *The New Yorker*, March 19, 2020.
+* Terry, Josh. 2020. “[Is Pandemic Brain Changing Your Taste in Music? You're Not Alone](https://www.vice.com/en/article/m7j8gq/pandemic-changing-music-taste-nostalgia).” *Vice*, October 2, 2020.
+* Thorpe, Vanessa. 2020. “[Royal Opera House to Sell Off David Hockney Painting in Bid to Stay Afloat](https://www.theguardian.com/culture/2020/oct/04/royal-opera-house-to-sell-off-david-hockney-painting-in-bid-to-stay-afloat).” *The Guardian*, October 4, 2020.
 * Tommasini, Anthony. 2020a. “[In a Pandemic, Musicians Play in Empty Halls for Audiences Online](https://www.nytimes.com/2020/03/13/arts/music/coronavirus-pandemic-music-streaming.html).” *The New York Times*, March 13, 2020.
 * ———. 2020b. “[Classical Music Attracts Older Audiences. Good](https://www.nytimes.com/2020/08/06/arts/music/classical-music-opera-older-audiences.html).” *The New York Times*, August 6, 2020.
 * ———. 2020c. “[Over Headphones and in a Truck, the Philharmonic Stays Alive](https://www.nytimes.com/2020/09/14/arts/music/new-york-philharmonic.html).” *The New York Times*, September 14, 2020; updated September 16, 2020.
+* ———. 2020d. “[For the Met Opera, the Pandemic Could Be a Necessary Reset](https://www.nytimes.com/2020/09/29/arts/music/met-opera-coronavirus-pandemic.html).” *The New York Times*, September 29, 2020.
 * Vincent, Michael. 2020a. “[Commentary: 12 Ways the Pandemic Will Change Classical Music](https://www.ludwig-van.com/toronto/2020/07/22/commentary-12-ways-pandemic-will-change-classical-music/).” *Ludwig Van*, July 22, 2020.
 * ———. 2020b. “[Toronto Symphony Announces New Drive-in Concert Series](https://www.ludwig-van.com/toronto/2020/09/17/scoop-toronto-symphony-announces-new-drive-concert-series/).” *Ludwig Van*, September 17, 2020.
 * Wassenberg, Anya. 2020. “[Will You Ever Feel Comfortable Going to a Concert Again?](https://www.ludwig-van.com/toronto/2020/05/27/feature-will-you-ever-feel-conformable-going-to-a-concert-again/)” *Ludwig Van*, May 27, 2020.
