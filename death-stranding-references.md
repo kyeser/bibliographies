@@ -32,6 +32,8 @@ Collins, Karen. 2008. *Game Sound: An Introduction to the History, Theory, and P
 
 ———, ed. 2008. *From Pac-Man to Pop Music: Interactive Audio in Games and New Media*. Aldershot: Ashgate.
 
+Cumming, Naomi. 2000. *The Sonic Self: Musical Subjectivity and Signification*. Bloomington, IN: Indiana University Press.
+
 Donnelly, K. J. 2005. *The Spectre of Sound: Music in Film and Television*. London: British Film Institute.
 
 Fadeley, James. 2020. “[*Death Stranding*, An In-Depth Analysis](https://tbirdstudios.com/game-reviews/death-stranding-an-in-depth-analysis/).” *Thunderbird Studios*, March 12, 2020.
