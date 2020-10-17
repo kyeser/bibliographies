@@ -10,7 +10,15 @@
 
 와시다 키요카즈. (1999) 2014. 『듣기의 철학: 고뇌하는 인간, 호모 파티엔스를 만나다』. 길주희 옮김. 서울: 아카넷.
 
+윤홍만. 2019. “[코지마 히데오 ‘《데스 스트랜딩》은 연결에 대한 이야기’](http://www.inven.co.kr/webzine/news/?news=230801).” 『인벤』, 2019년 11월 30일.
+
+정혁진. 2019. “[절대, 《데스 스트랜딩》은 단순한 배달 게임으로 치부되어서는 안 된다](https://www.thisisgame.com/webzine/news/nboard/16/?n=99113).” 『디스이즈게임』, 2019년 11월 1일.
+
+Austin, J. L. 1962. *How To Do Things with Words*. Oxford: Clarendon.
+
 Billboard Japan. “[J-Pop Star Gen Hoshino Reﬂects, ‘The World Seems Closer’: Interview](https://www.billboard.com/index.php/articles/news/international/8547194/japan-gen-hoshino-pop-virus-tour-interview).” *Billboard*, December 31, 2019.
+
+Butler, Judith. (1990) 1999. *Gender Trouble: Feminism and the Subversion of Identity*. 2nd ed. New York: Routledge. 『젠더 트러블: 페미니즘과 정체성의 전복』. 조현준 옮김. 파주: 문학동네, 2008.
 
 Chion, Michel. 1994. *Audio-Vision: Sound on Screen*. Forward by Walter Murch. Edited and translated by Claudia Gorbman. New York: Columbia University Press. Originally published as *L’Audio-Vision*, Paris: Editions Nathan, 1990.
 
@@ -58,4 +66,4 @@ Whalen, Zach. 2007. “Video Game Music: The Case of Silent Hill.” In *Music, 
 
 Williamson, Jason. 2019. “[The Soundscapes of Hideo Kojima’s *Death Stranding*](https://www.thelineofbestﬁt.com/features/articles/death-stranding-hideo-kojima-soundscapes).” *The Line of Best Fit*, November 20, 2019.
 
-Žižek, Slavoj. 2020. *Pandemic! COVID-19 Shakes the World*. New York: OR Books. 슬라보예 지젝. 『팬데믹 패닉: 코로나19는 세계를 어떻게 뒤흔들었는가』. 강우성 옮김. 서울: 북하우스, 2020.
+Žižek, Slavoj. 2020. *Pandemic! COVID-19 Shakes the World*. New York: OR Books. 『팬데믹 패닉: 코로나19는 세계를 어떻게 뒤흔들었는가』. 강우성 옮김. 서울: 북하우스, 2020.
