@@ -2,7 +2,7 @@
 
 (Last updated 16 October 2020)
 
-> For “마지막 오르페오의 노래: 코지마 히데오의 《데스 스트랜딩》과 듣기의 쓸모”
+> “마지막 오르페오의 노래: 코지마 히데오의 《데스 스트랜딩》과 듣기의 쓸모”
 
 > Paper read at 「[소리와 청취의 정치학 I](http://mrc.hanyang.ac.kr/politics-sound-listening-i/program/)」 (Politics of Sound and Listening I) by 계희승 [Hee Seng Kye](https://undoingmusicology.com), Music Research Center, Hanyang University, Seoul, Korea.
 
