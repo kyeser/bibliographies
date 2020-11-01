@@ -1,10 +1,6 @@
 # Sound Studies
 
-[한양대학교 음악연구소 중점연구](http://mrc.hanyang.ac.kr/ask-research/) 참고문헌 (“Sound, Space, and Mobility” at Music Research Center, Hanyang University)
-
-아래 참고문헌 목록은 작성자(=[계희승](http://undoingmusicology.com))의 개인 관심사와 우선순위에 따라 작성되었으며 한양대학교 음악연구소 중점연구의 연구 방향 및 의견을 대표 또는 반영하지 않습니다.
-
-Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicology.com).
+Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 
 (Last updated 13 August 2017)
 
