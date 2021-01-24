@@ -12,6 +12,7 @@ Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicolog
 * Goldovsky, Boris. 1968. *Bringing Opera to Life: Operatic Acting and Stage Direction*. New York: Appleton-Century-Crofts.
 * ———. 1984. *Good Afternoon, Ladies and Gentlemen! Intermission Scripts from the Met Broadcasts*. Bloomington: Indiana University Press.
 * Goldovsky, Boris, and Arthur Schoep. 1973. *Bringing Soprano Arias to Life*. New York: G. Schirmer.
+* Hampe, Michael. 2016. *The Crafty Art of Opera: For Those Who Make It, Love It or Hate It*. Translated by Chris Walton. Woodbridge: Boydell.
 * Helfgot, Daniel, and William O. Beeman. 1993. *The Third Line: The Opera Performer as Interpreter*. New York: Schirmer. Rev. ed., 2002, *The Third Line: The Singer as Interpreter*.
 * Hicks, Alan E. 2011. [*Singer and Actor: Acting Technique and the Operatic Performer*](https://www.amazon.com/gp/product/1574672010/). Milwaukee, WI: Amadeus Press.
 * Hampe, Michael. 2016. [*The Crafty Art of Opera: For Those Who Make It, Love It or Hate It*](https://www.amazon.com/Crafty-Art-Opera-Michael-Hampe/dp/1783270977/). Woodbridge: Boydell Press.
