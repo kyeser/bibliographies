@@ -53,6 +53,7 @@ Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 * Hall, Patricia, ed. 2018. *The Oxford Handbook of Music Censorship*. New York: Oxford University Press.
 * Hankins, Joseph D., and Carolyn S. Stevens, eds. 2013. *Sound, Space and Sociality in Modern Japan*. Routledge Contemporary Japan Series. New York: Routledge.
 * Hegarty, Paul. 2007. *Noise/Music: A History*. New York: Continuum.
+* Helmreich, Stefan. 2010. “Listening against Soundscapes.” *Anthropology News* 51 (9): 10.
 * Henriques, Julian. 2011. *Sonic Bodies: Reggae Sound Systems, Performance Techniques, and Ways of Knowing*. New York: Continuum.
 * Henson, Karen, ed. 2016. *Technology and the Diva: Sorpanos, Opera, and Media from Romanticism to the Digital Age*. Cambridge: Cambridge University Press.
 * Hesmondhalgh, David, and Jason Toynbee, eds. 2008. *The Media and Social Theory*. London: Routledge.
@@ -62,6 +63,7 @@ Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 * Hosokawa, Shuhei. 1984. “[The Walkman Effect](http://www.jstor.org/stable/853362).” *Popular Music* 4:165–80.
 * Howe, Blake, Stephanie Jensen-Moulton, Neil Lerner, and Joseph Straus, eds. 2016. *The Oxford Handbook of Music and Disability Studies*. New York: Oxford University Press.
 * Ihde, Don. (1976) 2007. *Listening and Voice: A Phenomenology of Sound*. 2nd ed. Albany: State University of New York Press.
+* Ingold, Tim. 2007. “Against Soundscape.” In *‌Autumn Leaves: Sound and the Environment in Artistic Practice*, edited by Angus Carlyle, 10–13. Paris: Double Entendre.
 * Kane, Brian. 2014. *Sound Unseen: Acousmatic Sound in Theory and Practice*. New York: Oxford University Press.
 * Kang, Jian, and Brigitte Schulte-Fortkamp, eds. 2016. *Soundscape and the Built Environment*. Boca Raton, FL: CRC Press.
 * Kapchan, Deborah A., ed. 2017. *Theorizing Sound Writing*. Middletown, CT: Wesleyan University Press.
@@ -109,15 +111,17 @@ Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 * Schafer, R. Murray. 1994. [*The Soundscape: Our Sonic Environment and the Tuning of the World*](https://www.amazon.com/Soundscape-R-Murray-Schafer/dp/0892814551/). Rochester, VT: Destiny Books.
 * Schwartz, Hillel. 2011. [*Making Noise: From Babel to the Big Bang and Beyond*](https://www.amazon.com/Making-Noise-Babel-Bang-Beyond/dp/1935408127). New York: Zone Books.
 * Sexton, Jamie, ed. 2007. [*Music, Sound and Multimedia: From the Live to the Virtual*](https://www.amazon.co.uk/Music-Sound-Multimedia-Virtual-Moving/dp/0748625348). Edinburgh: Edinburgh University Press.
-* Sterne, Jonathan. 2003. [*The Audible Past: Cultural Origins of Sound Reproduction*](https://www.amazon.com/Audible-Past-Cultural-Origins-Reproduction/dp/082233013X/). Durham, NC: Duke University Press.
+* Sterne, Jonathan. 2003. *The Audible Past: Cultural Origins of Sound Reproduction*. Durham, NC: Duke University Press.
 * ———. 2006. “[The MP3 as Cultural Artifact](http://sterneworks.org/mp3.pdf).” *New Media & Society* 8 (5): 825–42.
 * ———. 2012. *MP3: The Meaning of a Format*. Durham, NC: Duke University Press.
-* Sterne, Jonathan, ed. 2012. *The Sound Studies Reader*. New York: Routledge.
+* ———, ed. 2012. *The Sound Studies Reader*. New York: Routledge.
+* ———. 2015. “The Stereophonic Spaces of Soundscape.” In *Living Stereo: Histories and Cultures of Multichannel Sound*, edited by Paul Théberge, Kyle Devine, and Tom Everrett, 65–83. New York: Bloomsbury.
 * Stocker, Michael. 2013. *Hear Where We Are: Sound, Ecology, and Sense of Place*. New York: Springer.
 * Suisman, David. 2009. *Selling Sounds: The Commercial Revolution in American Music*. Cambridge, MA: Harvard University Press.
 * Suisman, David, and Susan Strasser, eds. 2010. *Sound in the Age of Mechanical Reproduction*. Philadelphia: University of Pennsylvania Press.
 * Summers, Tim. 2016. *Understanding Video Game Music*. Foreword by James Hannigan. Cambridge: Cambridge University Press.
 * Szendy, Peter. (2001) 2008. *Listen: A History of Our Ears*. Translated by Charlotte Mandell. New York: Fordham University Press.
+* Théberge, Paul, Kyle Devine, and Tom Everrett, eds. 2015. *Living Stereo: Histories and Cultures of Multichannel Sound*. New York: Bloomsbury.
 * Thompson, Emily. 2002. *The Soundscape of Modernity: Architectural Acoustics and the Culture of Listening in America, 1900–1933*. Cambridge, MA: The MIT Press.
 * Thompson, Marie, and Ian Biddle, eds. 2013. *Sound, Music, Affect: Theorizing Sonic Experience*. New York: Bloomsbury.
 * Thorau, Christian, and Hansjakob Ziemer, eds. 2019. *The Oxford Handbook of Music Listening in the 19th and 20th Centuries*. New York: Oxford University Press.
