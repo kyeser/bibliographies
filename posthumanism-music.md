@@ -2,7 +2,7 @@
 
 Compiled by Hee Seng Kye at [Undoing Musicology](http://undoingmusicology.com).
 
-(Last updated 4 August 2020)
+(Last updated 20 February 2021)
 
 * Åsberg, Cecilia, and Rosi Braidotti, eds. 2018. *A Feminist Companion to the Posthumanities*. Cham: Springer.
 * Auner, Joseph. 2003. “‘Sing It for Me’: Posthuman Ventriloquism in Recent Popular Music.” *Journal of the Royal Musical Association* 128 (1): 98–122.
