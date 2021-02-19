@@ -2,7 +2,7 @@
 
 Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 
-(Last updated 24 January 2021)
+(Last updated 20 February 2021)
 
 * Abbate, Carolyn. 2016. “[Sound Object Lessons](http://jams.ucpress.edu/content/69/3/793).” *Journal of the American Musicological Society* 69 (3): 793–829.
 * Allen, Aaron S., and Kevin Dawe, eds. 2016. *Current Directions in Ecomusicology: Music, Culture, Nature*. Routledge Research in Music. New York: Routledge. [http://www.ecomusicology.info](http://www.ecomusicology.info).
@@ -23,14 +23,14 @@ Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 * ———, ed. 2013. *Music, Sound and Space: Transformations of Public and Private Experience*. Cambridge: Cambridge University Press.
 * Bull, Michael. 2008. *Sound Moves: iPod Culture and Urban Experience*. New York: Routledge.
 * ———, ed. 2019. *The Routledge Companion to Sound Studies*. London: Routledge.
-* Bull, Michael, and Les Back, eds. 2016. *The Auditory Culture Reader*. 2nd ed. London: Bloomsbury. First published 2003 by Berg.
-* Bull, Michael, and Marcel Cobussen, eds. 2021. *The Bloomsbury Handbook of Sonic Methodologies*. New York: Bloomsbury.
+* Bull, Michael, and Les Back, eds. 2016. *The Auditory Culture Reader*. 2nd ed. London: Bloomsbury Academic. First published 2003 by Berg.
+* Bull, Michael, and Marcel Cobussen, eds. 2021. *The Bloomsbury Handbook of Sonic Methodologies*. New York: Bloomsbury Academic.
 * Cheng, William. 2014. *Sound Play: Video Games and the Musical Imagination*. New York: Oxford University Press.
 * ———. 2016. *Just Vibrations: The Purpose of Sounding Good*. Ann Arbor: University of Michigan Press.
 * Chenhall, Richard, Tamara Kohn, and Carolyn S. Stevens. 2021. *Sounding Out Japan: A Sensory Ethnographic Tour*. London: Routledge.
 * Cobussen, Marcel, Vincent Meelberg, and Barry Truax, eds. 2017. *The Routledge Companion to Sounding Art*. New York: Routledge.
 * Cook, Nicholas, and Richard Pettengill, eds. 2013. *Taking It to the Bridge: Music as Performance*. Ann Arbor: The University of Michigan Press.
-* Cox, Christoph, and Daniel Warner, eds. 2017. *Audio Culture: Readings in Modern Music*. Rev. ed. New York: Bloomsbury. 1st ed., New York: Continuum, 2004.
+* Cox, Christoph, and Daniel Warner, eds. 2017. *Audio Culture: Readings in Modern Music*. Rev. ed. New York: Bloomsbury Academic. 1st ed., New York: Continuum, 2004.
 * Crawford, Kate. 2009. “[Following You: Disciplines of Listening in Social Media](http://www.tandfonline.com/doi/abs/10.1080/10304310903003270).” *Continuum: Journal of Media and Cultural Studies* 23 (4): 525–35.
 * Daughtry, J. Martin. 2015. *Listening to War: Sound, Music, Trauma, and Survival in Wartime Iraq*. New York: Oxford University Press.
 * Deaville, James, Siu-Lan Tan, and Ron Rodman, eds. 2021. *The Oxford Handbook of Music and Advertising*. New York: Oxford University Press.
@@ -73,6 +73,7 @@ Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 * Kramer, Lawrence. 2018. *The Hum of the World: A Philosophy of Listening*. Oakland: University of California Press.
 * Krims, Adam. 2007. *Music and Urban Geography*. New York: Routledge.
 * LaBelle, Brandon. 2010. *Acoustic Territories: Sound Culture and Everyday Life*. New York: Continuum.
+* ———. 2021. *Acoustic Justice: Listening, Performativity, and the Work of Reorientation*. New York: Bloomsbury Academic.
 * Lazzarini, Victor, Damián Keller, Nuno Otero, and Luca Turchet, eds. 2021. *Ubiquitous Music Ecologies*. London: Routledge.
 * Leonardson, Eric. 2015. “[‘Our Sonic Playground’: A Model for Active Engagement in Urban Soundscapes](http://www.ingentaconnect.com/content/intellect/jucs/2015/00000002/F0020001/art00011).” *Journal of Urban Cultural Studies* 2 (1–2): 165–76.
 * Leppert, Richard, and Susan McClary, eds. 1987. *Music and Society: The Politics of Composition, Performance and Reception*. New York: Cambridge University Press.
@@ -115,20 +116,21 @@ Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 * ———. 2006. “[The MP3 as Cultural Artifact](http://sterneworks.org/mp3.pdf).” *New Media & Society* 8 (5): 825–42.
 * ———. 2012. *MP3: The Meaning of a Format*. Durham, NC: Duke University Press.
 * ———, ed. 2012. *The Sound Studies Reader*. New York: Routledge.
-* ———. 2015. “The Stereophonic Spaces of Soundscape.” In *Living Stereo: Histories and Cultures of Multichannel Sound*, edited by Paul Théberge, Kyle Devine, and Tom Everrett, 65–83. New York: Bloomsbury.
+* ———. 2015. “The Stereophonic Spaces of Soundscape.” In *Living Stereo: Histories and Cultures of Multichannel Sound*, edited by Paul Théberge, Kyle Devine, and Tom Everrett, 65–83. New York: Bloomsbury Academic.
 * Stocker, Michael. 2013. *Hear Where We Are: Sound, Ecology, and Sense of Place*. New York: Springer.
 * Suisman, David. 2009. *Selling Sounds: The Commercial Revolution in American Music*. Cambridge, MA: Harvard University Press.
 * Suisman, David, and Susan Strasser, eds. 2010. *Sound in the Age of Mechanical Reproduction*. Philadelphia: University of Pennsylvania Press.
 * Summers, Tim. 2016. *Understanding Video Game Music*. Foreword by James Hannigan. Cambridge: Cambridge University Press.
 * Szendy, Peter. (2001) 2008. *Listen: A History of Our Ears*. Translated by Charlotte Mandell. New York: Fordham University Press.
-* Théberge, Paul, Kyle Devine, and Tom Everrett, eds. 2015. *Living Stereo: Histories and Cultures of Multichannel Sound*. New York: Bloomsbury.
+* Théberge, Paul, Kyle Devine, and Tom Everrett, eds. 2015. *Living Stereo: Histories and Cultures of Multichannel Sound*. New York: Bloomsbury Academic.
 * Thompson, Emily. 2002. *The Soundscape of Modernity: Architectural Acoustics and the Culture of Listening in America, 1900–1933*. Cambridge, MA: The MIT Press.
-* Thompson, Marie, and Ian Biddle, eds. 2013. *Sound, Music, Affect: Theorizing Sonic Experience*. New York: Bloomsbury.
+* Thompson, Marie, and Ian Biddle, eds. 2013. *Sound, Music, Affect: Theorizing Sonic Experience*. New York: Bloomsbury Academic.
 * Thorau, Christian, and Hansjakob Ziemer, eds. 2019. *The Oxford Handbook of Music Listening in the 19th and 20th Centuries*. New York: Oxford University Press.
 * Titon, Jeff Todd. 2020. *Toward a Sound Ecology: New and Selected Essays*. Bloomington: Indiana University Press.
 * Tkaczyk, Viktoria, Mara Mills, and Alexandra Hui, eds. 2020. *Testing Hearing: The Making of Modern Aurality*. New York: Oxford University Press.
 * Tudor, J. M. 2010. *Sound and Sense: Music and Musical Metaphor in the Thought and Writing of Goethe and His Age*. New York: Peter Lang.
 * Voegelin, Salomé. 2010. *Listening to Noise and Silence: Towards a Philosophy of Sound Art*. New York: Continuum.
+* ———. 2021. *Sonic Possible Worlds: Hearing the Continuum of Sound*. Rev. ed. New York: Bloomsbury Academic. 1st ed., 2014.
 * Waldron, Janice L., Stephanie Horsley, and Kari K. Veblen, eds. 2020. *The Oxford Handbook of Social Media and Music Learning*. New York: Oxford University Press.
 * Walther-Hansen, Mads. 2020. *Making Sense of Recordings: How Cognitive Processing of Recorded Sound Works*. New York: Oxford University Press.
 * Weinel, Jonathan. 2018. *Inner Sound: Altered States of Consciousness in Electronic Music and Audio-Visual Media*. New York: Oxford University Press.
