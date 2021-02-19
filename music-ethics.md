@@ -2,7 +2,7 @@
 
 Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 
-(Last updated 24 January 2021)
+(Last updated 20 February 2021)
 
 * Cheng, William. 2014. *Sound Play: Video Games and the Musical Imagination*. New York: Oxford University Press.
 * ———. 2016. *Just Vibrations: The Purpose of Sounding Good*. Ann Arbor: University of Michigan Press.
@@ -19,4 +19,5 @@ Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 * Taruskin, Richard. 2009. *The Danger of Music and Other Anti-Utopian Essays*. Berkeley: University of California Press.
 * Thacker, Toby. 2007. *Music after Hitler, 1945–1955*. London: Routledge.
 * Tobin, Jonathan S. 2020. “[Canceling Beethoven Is the Latest Woke Madness for the Classical-Music World](https://nypost.com/2020/09/17/canceling-beethoven-is-the-latest-woke-madness-for-the-classical-music-world/).” *New York Post*, September 17, 2020.
+* Voegelin, Salomé. 2019. *The Political Possibility of Sound: Fragments of Listening*. New York: Bloomsbury Academic.
 * Warren, Jeff R. 2014. *Music and Ethical Responsibility*. New York: Cambridge University Press.
