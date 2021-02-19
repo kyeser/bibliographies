@@ -21,6 +21,7 @@ Compiled by Hee Seng Kye at [Undoing Musicology](http://undoingmusicology.com).
 * Haraway, Donna J. 1991. *Simians, Cyborgs, and Women: The Reinvention of Nature*. New York: Routledge.
 * Hauskeller, Michael, Thomas D. Philbeck, and Curtis D. Carbonell, eds. 2015. *‌The Palgrave Handbook of Posthumanism in Film and Television*. Houndmills, Basingstoke, Hampshire: Palgrave Macmillan.
 * Hayles, N. Katherine. 1999. *How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics*. Chicago: The University of Chicago Press.
+* Koepnick, Lutz. 2021. *Resonant Matter: Sound, Art, and the Promise of Hospitality*. New York: Bloomsbury Academic.
 * Kramer, Lawrence. 2013. “Classical Music for the Posthuman Condition.” In *The Oxford Handbook of New Audiovisual Aesthetics*, edited by John Richardson, Claudia Gorbman, and Carol Vernallis, 39–52.
 * Lillvis, Kristen. 2017. *Posthuman Blackness and the Black Female Imagination*. Athens: University of Georgia Press.
 * McFarlane, Anna, Graham J. Murphy, and Lars Schmeink, eds. 2020. *The Routledge Companion to Cyberpunk Culture*. New York: Routledge. [See chap. 29 “Music” by Nicholas C. Laudadio; chap. 33 “Posthumanism(s)” by Julia Grillmayr.]
