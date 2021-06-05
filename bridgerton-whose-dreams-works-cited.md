@@ -30,6 +30,8 @@ Buhler, James, David Neumeyer, and Rob Deemer. 2010. *Hearing the Movies: Music 
 
 Burlingame, Jon. 1996. *TV’s Biggest Hits: The Story of Television Themes from “Dragnet” to “Friends.”* New York: Schirmer.
 
+Chanan, Michael. 2002. “Television’s Problem with (Classical) Music.” *Popular Music* 21 (3): 367–74.
+
 Crittenton, Anya. 2018. “[Stop Speculating on Men’s Sexuality—It Only Makes Toxic Masculinity Stronger](https://www.gaystarnews.com/article/speculating-sexuality-toxic-masculinity/).” *Gay Star News*, November 29.
 
 Deaville, James, ed. 2011. *Music in Television: Channels of Listening*. New York: Routledge.
