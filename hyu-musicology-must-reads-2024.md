@@ -1,44 +1,74 @@
-# Musicology Must-Reads@HYU
-## 한양대학교 음악학 전공 필독서 50
+# 한양대학교 음악학 전공 필독서 50
+## Musicology Must-Reads@HYU
 
 Inspired by the Great Books curriculum at [St. John’s College](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list) and the reading list suggested by [The Taruskin Challenge](https://taruskinchallenge.wordpress.com/musicology-must-reads-2/).
 
 (Last updated January 4, 2024)
 
-* Abbate, Carolyn. 1991. [*Unsung Voices: Opera and Musical Narrative in the Nineteenth Century*](https://www.amazon.com/Unsung-Voices-Carolyn-Abbate/dp/0691026084/). Princeton, NJ: Princeton University Press.
-* Attali, Jacques. (1977) 1985. [*Noise: The Political Economy*](https://www.amazon.com/Noise-Political-Economy-History-Literature/dp/0816612870/). Translated by Brian Massumi. Foreword by Fredric Jameson. Afterword by Susan McClary. Minneapolis: University of Minnesota Press. Originally published as *Bruits: essai sur l’économie politique de la musique* (Paris: Presses Universitaires de France).
-* Babbitt, Milton. 1987. [*Milton Babbitt: Words About Music*](https://www.amazon.com/Milton-Babbitt-Words-Madison-Lectures/dp/0299107949). Edited by Stephen Dembski and Joseph N. Straus. Madison: The University of Wisconsin Press.
-* ———. 2003. [*The Collected Essays of Milton Babbitt*](https://www.amazon.com/Collected-Essays-Milton-Babbitt/dp/0691155402/). Edited by Stephen Peles, Stephen Dembski, Andrew Mead, and Joseph N. Straus. Princeton, NJ: Princeton University Press.
-* Bard-Schwarz, David, and Richard Cohn, eds. 2015. [*David Lewin’s “Morgengruß”: Text, Context, Commentary*](https://www.amazon.com/David-Lewins-Morgengruß-Context-Commentary/dp/019984478X/). New York: Oxford University Press.
-* Beer, Gillian. 2009. [*Darwin’s Plots: Evolutionary Narrative in Darwin, George Eliot and Nineteenth-Century Fiction*](https://www.amazon.com/Darwins-Plots-Evolutionary-Narrative-Nineteenth-Century/dp/0521743613/). 3rd ed. Cambridge: Cambridge University Press. 1st ed., 1983; 2nd ed., 2000.
-* Berger, Karol. 2007. [*Bach’s Cycle, Mozart’s Arrow: An Essay on the Origins of Musical Modernity*](https://www.amazon.com/Bachs-Cycle-Mozarts-Arrow-Modernity/dp/0520257979/). Berkeley: University of California Press.
-* Bloom, Harold. 1997. [*The Anxiety of Influence: A Theory of Poetry*](https://www.amazon.com/Anxiety-Influence-Theory-Poetry/dp/0195112210/). 2nd ed. New York: Oxford University Press. 1st ed., 1973.
-* Born, Georgina, ed. 2013. [*Music, Sound and Space: Transformations of Public and Private Experience*](https://www.amazon.com/Music-Sound-Space-Transformations-Experience/dp/1107504120/). Cambridge: Cambridge University Press.
-* Bradley, A. C. 1904. [*Shakespearean Tragedy: Lectures on Hamlet, Othello, King Lear, Macbeth*](https://archive.org/details/cu31924013159920). London: Macmillan.
-* Butler, Judith. 1999. [*Gender Trouble: Feminism and the Subversion of Identity*](https://www.amazon.com/Gender-Trouble-Feminism-Subversion-Routledge/dp/0415389550/). 2nd ed. New York: Routledge. 1st ed., 1990.
-* Cone, Edward T. 1974. [*The Composer’s Voice*](http://www.ucpress.edu/op.php?isbn=9780520046474). Berkeley: University of California Press.
-* ———. 1989. [*Music: A View from Delft; Selected Essays*](https://www.amazon.com/Music-View-Delft-Selected-Essays/dp/0226114708/). Edited by Robert P. Morgan. Chicago: The University of Chicago Press.
-* ———. 2009. [*Hearing and Knowing Music: The Unpublished Essays of Edward T. Cone*](https://www.amazon.com/Hearing-Knowing-Music-Unpublished-Essays/dp/0691140111/). Edited by Robert P. Morgan. Princeton, NJ: Princeton University Press.
-* Cusick, Suzanne G. 1999. “Gender, Musicology, and Feminism.” In [*Rethinking Music*](https://www.amazon.com/Rethinking-Music-Nick-Cook/dp/019879004X/), edited by Nicholas Cook and Mark Everist, 471–98. Oxford: Oxford University Press.
-* Fink, Robert. 1999. “Going Flat: Post-Hierarchical Music Theory and the Musical Surface.” In [*Rethinking Music*](https://www.amazon.com/Rethinking-Music-Nick-Cook/dp/019879004X/), edited by Nicholas Cook and Mark Everist, 102–37. Oxford: Oxford University Press.
-* Goehr, Lydia. 2007. [*The Imaginary Museum of Musical Works: An Essay in the Philosophy of Music*](https://www.amazon.com/Imaginary-Museum-Musical-Works-Philosophy/dp/0195324781/). Rev. ed. New York: Oxford University Press. First published 1992.
-* Hosokawa, Shuhei. 1984. “[The Walkman Effect](http://www.jstor.org/stable/853362).” *Popular Music* 4:165–80.
-* Hutcheon, Linda, and Michael Hutcheon. 1996. [*Opera: Desire, Disease, Death*](https://www.amazon.com/Opera-Desire-Disease-Death-Contexts/dp/0803273185/). Lincoln: University of Nebraska Press.
-* Kerman, Joseph. 1980. “[How We Got into Analysis, and How to Get Out](http://www.jstor.org/stable/1343130).” *Critical Inquiry* 7 (2): 311–31.
-* ———. 1985. [*Contemplating Music*](https://www.amazon.com/Contemplating-Music-Challenges-Joseph-Kerman/dp/0674166787/). Cambridge, MA: Harvard University Press.
-* ———. 1988. [*Opera as Drama*](https://www.amazon.com/Opera-as-Drama-Fiftieth-Anniversary/dp/0520246926). New and rev. ed. Berkeley: University of California Press. 1st ed., New York: Alfred A. Knopf, 1956.
-* Lewin, David. 1987. [*Generalized Musical Intervals and Transformations*](https://www.amazon.com/Generalized-Musical-Intervals-Transformations-David/dp/0199759944/). New Haven, CT: Yale University Press. Reprint, New York: Oxford University Press, 2007.
-* ———. 1993. [*Musical Form and Transformation*](https://www.amazon.com/Musical-Form-Transformation-Analytic-Essays/dp/0199759952/). New Haven, CT: Yale University Press. Reprint, New York: Oxford University Press, 2007.
-* ———. 2006. [*Studies in Music with Text*](https://www.amazon.com/Studies-Music-Text-Oxford-Theory/dp/0195397037/). New York: Oxford University Press.
-* McClary, Susan. 1986. “[A Musical Dialectic from the Enlightenment: Mozart’s *Piano Concerto in G Major, K. 453*, Movement 2](http://www.jstor.org/stable/1354338).” *Cultural Critique*, no. 4, 129–69.
-* ———. 1991. [*Feminine Endings: Music, Gender, and Sexuality*](https://www.amazon.com/Feminine-Endings-Music-Gender-Sexuality/dp/0816641897/). Minneapolis: University of Minnesota Press. Reprinted with a new introduction, 2002.
-* Metz, Christian. (1977) 1982. [*Psychoanalysis and the Cinema: The Imaginary Signifier*](https://www.amazon.com/Imaginary-Signifier-Psychoanalysis-Cinema/dp/0253203805/). Translated by Celia Britton, Annwyl Williams, Ben Brewster and Alfred Guzzetti. London: Macmillan. Originally published as *Le Signifiant imaginaire: psychanalyse et cinéma* (Paris: Union générale d’éditions).
-* Miller, Christopher R. 2006. [*The Invention of Evening: Perception and Time in Romantic Poetry*](https://www.amazon.com/Invention-Evening-Perception-Cambridge-Romanticism/dp/0521123496/). New York: Cambridge University Press.
-* Newark, Cormac. 2011. [*Opera in the Novel from Balzac to Proust*](https://www.amazon.com/Opera-Balzac-Proust-Cambridge-Studies/dp/0521118905/). New York: Cambridge University Press.
-* Poizat, Michel. (1986) 1992. [*The Angel’s Cry: Beyond the Pleasure Principle in Opera*](https://www.amazon.com/Angels-Cry-Beyond-Pleasure-Principle/dp/0801423880/). Translated by Arthur Denner. Ithaca, NY: Cornell University. Originally published as *L’Opéra, ou Le Cri de l’ange: Essai sur la jouissance de l’amateur d’opéra* (Paris: Éditions A. M. Métailié).
+* 정경영. 2021. 『음악이 좋아서 음악을 생각합니다』. 곰출판.
+* Abbate, Carolyn. 2004. “Music—Drastic or Gnostic?” *Critical Inquiry* 30 (3): 505–36. https://doi.org/10.1086/421160.
+* Abbate, Carolyn, and Roger Parker. 2012. *A History of Opera: The Last 400 Years*. New York: W. W. Norton.
+* Adorno, Theodor W. 1976. *Introduction to the Sociology of Music*. Translated by E. B. Ashton. New York: Seabury Press. Originally published as *Einleitung in die Musiksoziologie* by Suhrkamp Verlag, Frankfurt-am-Main, 1962.
+* Cadwallader, Allen, David Gagné, and Frank Samarotto. 2020. *Analysis of Tonal Music: A Schenkerian Approach*. 4th ed. New York: Oxford University Press.
+  * Bottge, Karen M., Allen Cadwallader, and David Gagné. *Student Workbook to Accompany “Analysis of Tonal Music: A Schenkerian Approach.”* 4th ed. New York: Oxford University Press.
+* Caplin, William E. 1998. *Classical Form: A Theory of Formal Functions for the Instrumental Music of Haydn, Mozart, and Beethoven*. New York: Oxford University Press.
+  * Caplin, William E. 2013. *Analyzing Classical Form: An Approach for the Classroom*. New York: Oxford University Press.
+* Chion, Michel. 1994. *Audio-Vision: Sound on Screen*. Edited and translated by Claudia Gorbman. New York: Columbia University Press. Originally published in French as *L’Audio-Vision* by Editions Nathan,  Paris, 1990.
+* Cone, Edward T. 1974. *The Composer’s Voice*. Berkeley: University of California Press.
+* Cone, Edward T. 1989. *Music: A View from Delft; Selected Essays*. Edited by Robert P. Morgan. Chicago: The University of Chicago Press.
+* Cook, Nicholas. 2021. *Music: A Very Short Introduction*. 2nd ed. Oxford: Oxford University Press. First published 1998. 『음악에 관한 몇 가지 생각』. 장호연 옮김. 곰출판, 2016.
+* Cook, Nicholas, and Mark Everist, eds. 1999. *Rethinking Music*. Oxford: Oxford University Press.
+* Dahlhaus, Carl. 1982. *Esthetics of Music*. Translated by William W. Austin. New York: Cambridge University Press. Originally published in German as *Musikästhetik* by Musikverlag Hans Gerig, Cologne, 1967.
+* Dahlhaus, Carl. 1983. *Foundations of Music History*. Translated by J. B. Robinson. New York: Cambridge University Press. 
+* Gjerdingen, Robert O. 2007. *Music in the Galant Style*. Oxford: Oxford University Press.
+* Goehr, Lydia. 2007. *The Imaginary Museum of Musical Works: An Essay in the Philosophy of Music*. Rev. ed. New York: Oxford University Press. First published 1992.
+* Hepokoski, James, and Warren Darcy. 2006. *Elements of Sonata Theory: Norms, Types, and Deformations in the Late-Eighteenth-Century Sonata*. New York: Oxford University Press.
+  * Hepokoski, James. 2021. *A Sonata Theory Handbook*. New York: Oxford University Press.
+* Kerman, Joseph. 1980. “How We Got into Analysis, and How to Get Out.” *Critical Inquiry* 7 (2): 311–31. https://doi.org/10.1086/448101.
+* Kerman, Joseph. 1985. *Contemplating Music*. Cambridge, MA: Harvard University Press.
+* Kerman, Joseph. 1988. *Opera as Drama*. New and rev. ed. Berkeley: University of California Press. 1st ed., New York: Alfred A. Knopf, 1956.
+* Lewin, David. 1986. “Music Theory, Phenomenology, and Modes of Perception.” *Music Perception* 3 (4): 327–92. https://doi.org/10.2307/40285344.
+  * Bard-Schwarz, David, and Richard Cohn, eds. 2015. *David Lewin’s “Morgengruß”: Text, Context, Commentary*. New York: Oxford University Press.
+* Lewin, David. 2006. *Studies in Music with Text*. New York: Oxford University Press.
+* Marx, Adolf Bernhard. 1997. *Musical Form in the Age of Beethoven: Selected Writings on Theory and Method*. Edited and translated by Scott Burnham. New York: Cambridge University Press.
+* McClary, Susan. 1986. “A Musical Dialectic from the Enlightenment: Mozart’s *Piano Concerto in G Major, K. 453*, Movement 2.” *Cultural Critique*, no. 4, 129–69. https://doi.org/10.2307/1354338.
+* McClary, Susan. 1991. *Feminine Endings: Music, Gender, and Sexuality*. Minneapolis: University of Minnesota Press. Reprinted with a new introduction, 2002. 『페미닌 엔딩: 음악, 젠더, 섹슈얼리티』. 송화숙, 이은진, 윤인영 옮김. 예솔, 2017.
+* Ratner, Leonard G. 1980. *Classical Music: Expression, Form, and Style*. New York: Schirmer.
+* Rosen, Charles. 1997. *The Classical Style: Haydn, Mozart, Beethoven*. Exp. ed. New York: W. W. Norton. 『고전적 양식: 하이든, 모차르트, 베토벤의 음악 언어』. 장호연 옮김. 풍월당, 2021.
+* Rothfarb, Lee, and Christopher Landerer. 2018. *Eduard Hanslick’s “On the Musically Beautiful”: A New Translation*. New York: Oxford University Press. 『음악적 아름다움에 대하여』. 개정판. 이미경 옮김. 책세상, 2018.
+* Scher, Steven Paul, ed. 1992. *Music and Text: Critical Inquiries*. Cambridge: Cambridge University Press.
+* Small, Christopher. 1998. *Musicking: The Meanings of Performing and Listening*. Middletown, CT: Wesleyan University Press. 『뮤지킹 음악하기』. 조선우, 최유준 옮김. 효형출판, 2004.
+  * 최유준. 2016. 『크리스토퍼 스몰, 음악하기』. 커뮤니케이션북스.
+* Sterne, Jonathan. 2003. *The Audible Past: Cultural Origins of Sound Reproduction*. Durham, NC: Duke University Press. 『청취의 과거: 청각적 근대성의 기원들』. 윤원화 옮김. 현실문화, 2010.
+* Straus, Joseph N. 2006. “Normalizing the Abnormal: Disability in Music and Music Theory.” *Journal of the American Musicological Society* 59 (1): 113–84. https://doi.org/10.1525/jams.2006.59.1.113.
+* Taruskin, Richard. 1995. *Text and Act: Essays on Music and Performance*. New York: Oxford University Press.
+* Taruskin, Richard. 2005/2010. *The Oxford History of Western Music*. 5 vols. New York: Oxford University Press.
+  * Taruskin, Richard, and Christopher H. Gibbs. 2019. *The Oxford History of Western Music*. College ed. 2nd ed. New York: Oxford University Press.
+
+---
+
+* Abbate, Carolyn. 1991. *Unsung Voices: Opera and Musical Narrative in the Nineteenth Century*. Princeton, NJ: Princeton University Press.
+* Adorno, Theodor W. 2002. *Essays on Music*. Selected, with introduction, commentary, and notes by Richard Leppert. New translations by Susan H. Gillespie. Berkeley: University of California Press.
+  * Select a few?
+* Dahlhaus, Carl. 1989. *Nineteenth-Century Music*. Translated by J. Bradford Robinson. Berkeley: University of California Press. Originally published as *Die Musik des 19. Jahrhunderts* by Akademische Verlagsgesellschaft Athenaion, Wiesbaden, 1980.
+* Jankélévitch, Vladimir. (1983) 2003. *Music and the Ineffable*. Translated by Carolyn Abbate. Princeton, NJ: Princeton University Press.
 * Schenker, Heinrich. (1935) 1979. *Free Composition: Volume III of New Musical Theories and Fantasies*. Translated and edited by Ernst Oster. 2 vols. New York: Longman. Originally published as *Der freie Satz* (Vienna: Universal Edition). Reprint, Hillsdale, NY: Pendragon Press, 2001.
-* Sousanis, Nick. 2015. [*Unflattening*](https://www.amazon.com/Unflattening-Nick-Sousanis/dp/0674744438/). Cambridge, MA: Harvard University Press.
-* Sterne, Jonathan. 2003. [*The Audible Past: Cultural Origins of Sound Reproduction*](https://www.amazon.com/Audible-Past-Cultural-Origins-Reproduction/dp/082233013X/). Durham, NC: Duke University Press.
-* ———. 2006. “[The MP3 as Cultural Artifact](http://sterneworks.org/mp3.pdf).” *New Media & Society* 8 (5): 825–42.
-* ———. 2012. [*MP3: The Meaning of a Format*](https://www.amazon.com/MP3-Meaning-Format-Storage-Transmission/dp/0822352877/). Durham, NC: Duke University Press.
-* Thompson, Emily. 2002. [*The Soundscape of Modernity: Architectural Acoustics and the Culture of Listening in America, 1900–1933*](https://www.amazon.com/Soundscape-Modernity-Architectural-Acoustics-1900-1933/dp/0262701065/). Cambridge, MA: The MIT Press.
+* Taruskin, Richard. 2009. *The Danger of Music and Other Anti-Utopian Essays*. Berkeley: University of California Press.
+
+---
+
+* 김영민, 『공부란 무엇인가』, 어크로스, 2020.
+* 움베르토 에코, 『논문 잘 쓰는 법』, 열린책들, 2006.
+* 머리 셰이퍼 (한명호, 오양기), 『사운드스케이프』, 그물코, 2008.
+* 최유준, 『음악 문화와 감성 정치』, 작은이야기, 2011.
+* 알렉스 로스, 『나머지는 소음이다』, 21세기 북스, 2010.
+* 블라디슬로프 타타르키비츠 (이용대), 『여섯 가지 개념의 역사』, 이론과실천, 1990.
+* 마이클 스피처 (김문주), 『우리에겐 음악이 필요하다』, 비이, 2022.
+* 루이스 록우드 (장호연), 『베토벤 심포니』, 바다출판사, 2020.
+* 대니얼 J. 레비틴 (이진선), 『음악인류』, 와이즈베리, 2022.
+* 칼 쇼르스케 (김병화), 『세기말빈』, 글항아리, 2014.
+* 데이비드 하비 (김병화), 『모더니티의 수도 파리』, 글항아리, 2019.
+* 메이너드 솔로몬 (김병화), 『루트비히 판 베토벤 1, 2』, 한길아트, 2006.
+* 마크 카츠 (허진), 『소리를 잡아라』, 마티, 2006.
+* 마이클 캐넌 (김혜중), 『무지카 프라티카』, 동문선, 2001.
+* 브라이언 매기 (김병화), 『트리스탄 코드』, 심산, 2005.
