@@ -6,6 +6,7 @@ Inspired by the Great Books curriculum at [St. John’s College](https://www.sjc
 (Last updated January 4, 2024)
 
 * 정경영. 2021. 『음악이 좋아서 음악을 생각합니다』. 곰출판.
+* 엄태웅, 최윤섭, 권창현. 2019. 『대학원생 때 알았더라면 좋았을 것들』. 클라우드나인.
 * Abbate, Carolyn. 2004. “Music—Drastic or Gnostic?” *Critical Inquiry* 30 (3): 505–36. https://doi.org/10.1086/421160.
 * Abbate, Carolyn, and Roger Parker. 2012. *A History of Opera: The Last 400 Years*. New York: W. W. Norton.
 * Adorno, Theodor W. 1976. *Introduction to the Sociology of Music*. Translated by E. B. Ashton. New York: Seabury Press. Originally published as *Einleitung in die Musiksoziologie* by Suhrkamp Verlag, Frankfurt-am-Main, 1962.
