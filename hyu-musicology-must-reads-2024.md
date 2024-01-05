@@ -1,5 +1,5 @@
-# 한양대학교 음악학 전공 필독서 50
-## Musicology Must-Reads@HYU
+# 한양대학교 음악학 전공 필독서 50 (초안)
+## Musicology Must-Reads@HYU (draft)
 (Last updated January 4, 2024)
 
 Inspired by the Great Books curriculum at [St. John’s College](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list) and the reading list suggested by [The Taruskin Challenge](https://taruskinchallenge.wordpress.com/musicology-must-reads-2/).
