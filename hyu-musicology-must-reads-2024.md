@@ -8,7 +8,7 @@ Inspired by the Great Books curriculum at [St. John’s College](https://www.sjc
 
 1. 김영민. 2020. 『공부란 무엇인가』. 어크로스.
 2. 엄태웅, 최윤섭, 권창현. 2019. 『대학원생 때 알았더라면 좋았을 것들』. 클라우드나인.
-3. 정경영. 2021. 『음악이 좋아서 음악을 생각합니다』. 곰출판.
+3. 정경영. 2021. 『음악이 좋아서, 음악을 생각합니다』. 곰출판.
 4. 최유준. 2011. 『음악 문화와 감성 정치』. 작은이야기.
 5. Abbate, Carolyn. 1991. *Unsung Voices: Opera and Musical Narrative in the Nineteenth Century*. Princeton, NJ: Princeton University Press.
 6. Abbate, Carolyn. 2004. “Music—Drastic or Gnostic?” *Critical Inquiry* 30 (3): 505–36. https://doi.org/10.1086/421160.
